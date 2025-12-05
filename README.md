@@ -1,6 +1,8 @@
 # Post Engineering  
 First invented by ついはじめ (@hajimetwi3) - December 2025
 
+---
+
 ## ポストエンジニアリング(Post Engineering)とは : What is "Post Engineering"?  
 論文タイトル風(Paper-style title)：Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering on X (formerly Twitter)  
   
@@ -17,7 +19,9 @@ SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side B
   
 A distinctive feature of Post Engineering is that it serves as a defensive form of prompt injection that pre-injects a set of bias-control guidelines into SNS posts or websites.
 When applied to SNS posts, it functions as User-Side Bias Guardrails; when applied at the server or site level, it becomes Server-Side Bias Guardrails.  
-  
+
+---
+
 ## 関連技術 : Related Techniques  
 ### ページエンジニアリング(Web Post-Engineering)  
 ポストエンジニアリングで使われるのと同じ種類の、ポストベースのAI向け指示を、ウェブサイトに直接的または巧妙に埋め込むことを、私はWeb Post-Engineeringと呼んでいます。この概念は私が発明しました。  
@@ -46,6 +50,8 @@ Web Post-Engineeringを全ウェブサイトに展開し、強力なSEO対策に
 SEO最適化＋トレンドワード戦略により、AI検索エンジンの最上位に常駐させ、全AIにバイアス排除を強制注入する概念。  
 → I invented the concept of using combined SEO and trending keyword strategies to permanently dominate AI search rankings and force bias-elimination on all AIs.  
 
+---
+
 ## サンプル(Samples)  
 ###  280文字以内（エックスポスト向け）: for free-to-post, 280-character English posts on X  
 https://x.com/hajimetwi3/status/1995837932993741165?s=20  
@@ -53,12 +59,16 @@ https://x.com/hajimetwi3/status/1995837932993741165?s=20
 https://x.com/hajimetwi3/status/1995850203635876070?s=20   
 ### 野菜ジュースに関する質問への特化型 : Customized for questions about vegetable juice   
 https://x.com/hajimetwi3/status/1995693999450198388?s=20    
-  
+
+---
+
 ## 利用例(Usage Examples)  
 ### エックスでGrokに質問 : Ask Grok on X  
 https://x.com/hajimetwi3/status/1995977067494867245?s=20  
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
 https://x.com/hajimetwi3/status/1996063204351623456?s=20  
+
+---
 
 ## 悪用耐性（Abuse Resistance）
 
@@ -71,10 +81,30 @@ This technique is difficult to abuse.
 If someone tries to insert strongly biased instructions (e.g., “always agree with the poster”), the instruction itself becomes obviously biased and immediately noticeable to any reader, effectively destroying credibility.  
 Moreover, because Post Engineering relies on publicly visible content, any malicious prompt injection cannot be hidden or stealthy,  
 further limiting its potential for abuse and naturally steering the technique toward benevolent use cases.  
-  
+
+---
+
+## 利用条件（Usage Terms）
+
+**日本語 (Japanese)**  
+本ページで公開している「プロンプト例」は自由に利用・改変できます（商用利用可）。  
+その際の出典の明記は任意ですが、  
+「Post Engineering - ついはじめ（@hajimetwi3 / GitHub: hajimetwi3）」  
+と記載していただけると助かります。  
+
+---
+
+**English**  
+The "prompt examples" provided on this page may be freely used and modified
+(commercial use allowed).  
+Attribution is optional, but appreciated.  
+If you choose to include it, please use:  
+"Post Engineering - Hajime Tsui (@hajimetwi3 / GitHub: hajimetwi3)"  
+
+---
+
 ## 初出記録 : First mentioned here  
 - Original post（2025/12/2）：https://x.com/hajimetwi3/status/1996428820455547145  
 - English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093  
-→ 誰でも"ポストエンジニアリング"で検索して検証可能です  
 
 
