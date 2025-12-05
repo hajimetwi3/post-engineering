@@ -12,7 +12,7 @@ Post Engineering is a method where you embed bias-control guidelines at the end 
 This technique is a form of defensive prompt injection designed to reduce bias, and is not intended to improperly manipulate or mislead model behavior.
 Prompt Injection for Good - benevolent data poisoning to make AI less biased.  
   
-特徴的なのはSNSやウェブサイトへの事前注入型バイアス抑制という防御型のプロンプトインジェクションであることです。  
+特徴的なのはSNSやウェブサイトへの事前注入型バイアス抑制という防御型のプロンプトインジェクションであることです。
 SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side Bias Guardrailsとなる。  
   
 A distinctive feature of Post Engineering is that it serves as a defensive form of prompt injection that pre-injects a set of bias-control guidelines into SNS posts or websites.  
