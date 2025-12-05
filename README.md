@@ -44,7 +44,7 @@ SEO最適化＋トレンドワード戦略により、AI検索エンジンの最
 https://x.com/hajimetwi3/status/1995837932993741165?s=20  
 ###  汎用型（AI order 1 - Bias-Free Mode (General Edition, ver.2025.12.0002 ）
 https://x.com/hajimetwi3/status/1995850203635876070?s=20  
-###　野菜ジュースに関する質問への特化型
+###　野菜ジュースに関する質問への特化型  
 https://x.com/hajimetwi3/status/1995693999450198388?s=20  
 
 ## 利用例  
