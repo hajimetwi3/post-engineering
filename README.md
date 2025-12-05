@@ -1,4 +1,4 @@
-# Post Engineering™  
+# Post Engineering  
 First invented by ついはじめ (@hajimetwi3) - December 2025
 
 ## ポストエンジニアリング(Post engineering)とは  
