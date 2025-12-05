@@ -44,22 +44,22 @@ SEO最適化＋トレンドワード戦略により、AI検索エンジンの最
 → I invented the concept of using combined SEO and trending keyword strategies to permanently dominate AI search rankings and force bias-elimination on all AIs.  
 
 ## サンプル(Samples)  
-###  280文字以内（エックスポスト向け）  
+###  280文字以内（エックスポスト向け）: for free-to-post, 280-character English posts on X  
 https://x.com/hajimetwi3/status/1995837932993741165?s=20  
 ###  汎用型（AI order 1 - Bias-Free Mode (General Edition, ver.2025.12.0002 ）  
 https://x.com/hajimetwi3/status/1995850203635876070?s=20   
-### 野菜ジュースに関する質問への特化型  
+### 野菜ジュースに関する質問への特化型 : Customized for questions about vegetable juice   
 https://x.com/hajimetwi3/status/1995693999450198388?s=20    
   
 ## 利用例(usage example)  
-### エックスでGrokに質問  
+### エックスでGrokに質問 : Ask Grok on X  
 https://x.com/hajimetwi3/status/1995977067494867245?s=20  
-### エックスでGrokに質問2
+### エックスでGrokに質問2 : Ask Grok on X - Part2
 https://x.com/hajimetwi3/status/1996063204351623456?s=20  
 
-## 初出記録  
-- 初出投稿（2025年12月2日）：https://x.com/hajimetwi3/status/1996428820455547145  
-- 英語宣言（2025年12月2日）：https://x.com/hajimetwi3/status/1995819055991980093  
+## 初出記録 : First mentioned here  
+- Original post（2025/12/2）：https://x.com/hajimetwi3/status/1996428820455547145  
+- English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093  
 → 誰でも"ポストエンジニアリング"で検索して検証可能です  
 
 
