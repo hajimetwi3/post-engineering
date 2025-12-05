@@ -55,7 +55,7 @@ SEO最適化＋トレンドワード戦略により、AI検索エンジンの最
 
 ---
 
-## 指示フィルタリングと安全な代替原理（Note on Model Filtering and Safe Alternatives）  
+## 指示フィルタリングと安全な代替手法（Note on Model Filtering and Safe Alternatives）  
 
 AIモデルは、明確すぎる指示内容を「操作的」または「不正な意図を持つ可能性がある」と判断し、
 フィルタリングする場合があります。  
