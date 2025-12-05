@@ -8,7 +8,8 @@ First invented by ついはじめ (@hajimetwi3) - December 2025
   
 Post Engineering is a method where you embed bias-control guidelines at the end of a post so AI tools like Grok analyze the thread more neutrally and accurately.  
   
-特徴的なのはSNSやウェブサイトへのバイアス抑制という防御型のプロンプトインジェクションであることです。  
+特徴的なのはSNSやウェブサイトへの事前注入型バイアス抑制という防御型のプロンプトインジェクションであることです。  
+SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side Bias Guardrailsとなる。  
 
 ## 関連技術  
 ### ページエンジニアリング(Web Post-Engineering)  
