@@ -58,7 +58,7 @@ https://x.com/hajimetwi3/status/1995850203635876070?s=20
 ### 野菜ジュースに関する質問への特化型 : Customized for questions about vegetable juice   
 https://x.com/hajimetwi3/status/1995693999450198388?s=20    
   
-## 利用例(usage example)  
+## 利用例(Usage examples)  
 ### エックスでGrokに質問 : Ask Grok on X  
 https://x.com/hajimetwi3/status/1995977067494867245?s=20  
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
