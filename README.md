@@ -49,7 +49,9 @@ https://x.com/hajimetwi3/status/1995693999450198388?s=20
 
 ## 利用例  
 ### エックスでGrokに質問  
-https://x.com/hajimetwi3/status/1995977067494867245?s=20
+https://x.com/hajimetwi3/status/1995977067494867245?s=20  
+### エックスでGrokに質問2
+https://x.com/hajimetwi3/status/1996063204351623456?s=20  
 
 ## 初出記録  
 - 初出投稿（2025年12月2日）：https://x.com/hajimetwi3/status/1996428820455547145  
