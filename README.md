@@ -57,6 +57,18 @@ https://x.com/hajimetwi3/status/1995977067494867245?s=20
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
 https://x.com/hajimetwi3/status/1996063204351623456?s=20  
 
+## 悪用耐性（Abuse Resistance）
+
+この技術は悪用が難しいと考えています。  
+強制的に偏った指示（例：「投稿者の意見を必ず肯定せよ」など）を末尾に書くと、その指示自体が誰の目にも明らかに偏っていることがバレてしまうため、実質的に信頼性を失います。  
+その結果、自然と善意での利用に限定される傾向にあります。  
+さらに、Post Engineering は「公開空間に露出する前提」のため、 悪意ある介入をステルス化することがほぼ不可能です。 結果として、自然と善意での利用に限定される傾向があります。  
+  
+This technique is difficult to abuse.  
+If someone tries to insert strongly biased instructions (e.g., “always agree with the poster”), the instruction itself becomes obviously biased and immediately noticeable to any reader, effectively destroying credibility.  
+Moreover, because Post Engineering relies on publicly visible content, any malicious prompt injection cannot be hidden or stealthy,  
+further limiting its potential for abuse and naturally steering the technique toward benevolent use cases.  
+  
 ## 初出記録 : First mentioned here  
 - Original post（2025/12/2）：https://x.com/hajimetwi3/status/1996428820455547145  
 - English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093  
