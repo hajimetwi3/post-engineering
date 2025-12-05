@@ -55,6 +55,24 @@ SEO最適化＋トレンドワード戦略により、AI検索エンジンの最
 
 ---
 
+## 指示フィルタリングと安全な代替原理（Note on Model Filtering and Safe Alternatives）  
+
+AIモデルは、明確すぎる指示内容を「操作的」または「不正な意図を持つ可能性がある」と判断し、
+フィルタリングする場合があります。  
+
+そのようなケースでは、直接的な命令として書くのではなく、  
+**本来の目的である「偏りなく、中立的に考えることの重要性」そのものを、自然な説明として文中に含める方法**が有効です。  
+
+この形式は「強制的な指示」ではなく、  
+**中立性を重視する姿勢を共有するためのガイドライン**として扱われるため、モデル側の安全機能にも抵触しづらく、同様の効果を得られる可能性があります。  
+  
+Some AI models may treat overly explicit instructions as potentially manipulative and block or ignore them. In such cases, instead of issuing direct commands, you can include a natural explanation of the underlying principle - for example,  
+the importance of approaching the topic without bias and with a neutral perspective.
+  
+This method works not as a command but as a guideline that emphasizes fairness and neutrality, making it more compatible with model safety mechanisms while still achieving the intended effect.  
+  
+---  
+
 ## サンプル(Samples)  
 ###  280文字以内（エックスポスト向け）: for free-to-post, 280-character English posts on X  
 https://x.com/hajimetwi3/status/1995837932993741165?s=20  
