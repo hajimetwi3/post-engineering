@@ -2,11 +2,13 @@
 First invented by ついはじめ (@hajimetwi3) - December 2025
 
 ## ポストエンジニアリング(Post engineering)とは  
-ポストエンジニアリング（Post Engineering）とは、SNS等の投稿の末尾等にバイアス抑制のガイドラインを組み込むことで、GrokなどのAIツールがスレをより中立かつ正確に分析できるようにする手法  
-プロンプトエンジニアリングの最新サブテクニック  
+ポストエンジニアリング（Post Engineering）とは、SNS等の投稿の末尾等にバイアス抑制のガイドラインを組み込むことで、GrokなどのAIツールがスレをより中立かつ正確に分析できるようにする手法です。  
+本技術はバイアス低減を目的とする"防御的プロンプトインジェクション"であり、モデルの挙動を不正誘導することを意図したものではありません。  
+これは、プロンプトエンジニアリングの最新サブテクニックです。  
 論文タイトル風：Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering on X (formerly Twitter)  
   
 Post Engineering is a method where you embed bias-control guidelines at the end of a post so AI tools like Grok analyze the thread more neutrally and accurately.  
+This technique is a form of defensive prompt injection designed to reduce bias, and is not intended to improperly manipulate or mislead model behavior.  
   
 特徴的なのはSNSやウェブサイトへの事前注入型バイアス抑制という防御型のプロンプトインジェクションであることです。  
 SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side Bias Guardrailsとなる。  
