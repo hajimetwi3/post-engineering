@@ -14,7 +14,10 @@ Prompt Injection for Good - benevolent data poisoning to make AI less biased.
 
 特徴的なのはSNSやウェブサイトへの事前注入型バイアス抑制という防御型のプロンプトインジェクションであることです。  
 SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side Bias Guardrailsとなる。  
-
+  
+A distinctive feature of Post Engineering is that it serves as a defensive form of prompt injection that pre-injects bias-control guidelines into SNS posts or websites.  
+When applied to SNS posts, it functions as User-Side Bias Guardrails; when applied at the server or site level, it becomes Server-Side Bias Guardrails.  
+  
 ## 関連技術  
 ### ページエンジニアリング(Web Post-Engineering)  
 ポストエンジニアリングで使われるのと同じ種類の、ポストベースのAI向け指示を、ウェブサイトに直接的または巧妙に埋め込むことを、私はWeb Post-Engineeringと呼んでいます。この概念は私が発明しました。  
