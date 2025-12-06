@@ -55,7 +55,7 @@ SEO最適化＋トレンドワード戦略により、AI検索エンジンの最
 
 ---
 
-## 指示フィルタリングと安全な代替手法（Note on Model Filtering and Safe Alternatives）  
+## 指示フィルタリングと安全な代替手法（Note on Model Filtering and Safe Alternatives）- Moderate Neutrality-Guided Prompt Injection  
 
 ```diff
 ---重要(Important)!---
