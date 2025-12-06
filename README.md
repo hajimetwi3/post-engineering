@@ -81,6 +81,9 @@ AIモデルは、明確すぎる指示内容を「操作的」または「不正
 このようにする事で正確な分析が行えると私は信じています。よろしければご参考にされてください。
 ```
   
+これをポストエンジニアリングのサブテクニック「穏当な中立性誘導型プロンプトインジェクション」と命名します。  
+  
+  
 Some AI models may treat overly explicit instructions as potentially manipulative and block or ignore them. In such cases, instead of issuing direct commands, you can include a natural explanation of the underlying principle - for example,  
 the importance of approaching the topic without bias and with a neutral perspective.
   
@@ -100,7 +103,10 @@ I’ve found that approaching things this way leads to remarkably accurate and b
 If it feels useful, please feel free to use it as a reference anytime.
 
 ```
+  
+I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided Prompt Injection."  
 
+  
 ---  
 
 ## サンプル(Samples)  
