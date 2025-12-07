@@ -21,7 +21,7 @@ Below is a copy and paste of the "README.md". Please see "README.md" for the lat
 
 ---  
 
-## ポストエンジニアリング(Post Engineering for AI)とは : What is "Post Engineering"?  
+## ポストエンジニアリング(Post Engineering for AI)とは : What is "Post Engineering for AI"?  
 論文タイトル風(Paper-style title)：Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering for AI (applied on SNS)
   
 ポストエンジニアリング（Post Engineering for AI）とは、SNS等の投稿の末尾等にバイアス抑制のガイドラインを組み込むことで、GrokなどのAIツールがスレをより中立かつ正確に分析できるようにする手法です。
