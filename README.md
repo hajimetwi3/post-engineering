@@ -195,6 +195,13 @@ If you choose to include it, please use:
 
 ## 初出記録 : First mentioned here  
 - Original post（2025/12/2）：https://x.com/hajimetwi3/status/1996428820455547145  
-- English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093  
+- English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093
+  
+## Archive  
+Registered on the following archive site  
+
+https://web.archive.org/  
+https://ghostarchive.org/  
+https://archive.ph/  
 
 
