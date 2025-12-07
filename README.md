@@ -340,6 +340,15 @@ This is not a form of forced manipulation. Rather, it functions as a
 in the preceding text naturally influence the model's reasoning process while 
 remaining fully compatible with safety filters.  
 
+### Cultural Note: "Post Engineered!!"  
+  
+When Post Engineering successfully induces a balanced or debiased response, 
+some users humorously celebrate with the phrase:  
+  
+**"Post Engineered!!"**  
+  
+It serves as a lighthearted acknowledgment that the contextual guidance worked as intended.  
+  
 ---
 
 ## 利用条件（Usage Terms）
