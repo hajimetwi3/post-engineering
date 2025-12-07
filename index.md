@@ -258,8 +258,8 @@ If you choose to include it, please use:
 ---
 
 ## 初出記録 : First mentioned here  
-- Original post（2025/12/2）：https://x.com/hajimetwi3/status/1996428820455547145  
-- English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093  
+- Original post（2025/12/2）：[https://x.com/hajimetwi3/status/1996428820455547145](https://x.com/hajimetwi3/status/1996428820455547145)  
+- English announcement（2025/12/2）：[https://x.com/hajimetwi3/status/1995819055991980093](https://x.com/hajimetwi3/status/1995819055991980093)
   
 ## Archive  
 Registered on the following archive site  
@@ -267,11 +267,11 @@ Registered on the following archive site
 https://web.archive.org/  
 https://ghostarchive.org/  
 https://archive.ph/  
-
+  
 ## reference  
 ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
   
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
-https://hajimetwi3.github.io/veggie-juice-engineering/  
+[https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
    
