@@ -165,13 +165,13 @@ I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided
 
 ## サンプル(Samples)  
 ###  280文字以内（エックスポスト向け）: for free-to-post, 280-character English posts on X  
-https://x.com/hajimetwi3/status/1995837932993741165?s=20  
+[https://x.com/hajimetwi3/status/1995837932993741165?s=20](https://x.com/hajimetwi3/status/1995837932993741165?s=20)  
 ###  汎用型（AI order 1 - Bias-Free Mode (General Edition, ver.2025.12.0002 ）  
-https://x.com/hajimetwi3/status/1995850203635876070?s=20   
+[https://x.com/hajimetwi3/status/1995850203635876070?s=20](https://x.com/hajimetwi3/status/1995850203635876070?s=20)   
 ### 野菜ジュースに関する質問への特化型 : Customized for questions about vegetable juice   
-https://x.com/hajimetwi3/status/1995693999450198388?s=20  
+[https://x.com/hajimetwi3/status/1995693999450198388?s=20](https://x.com/hajimetwi3/status/1995693999450198388?s=20)  
 ### 穏当な中立性誘導型プロンプトインジェクション : Moderate Neutrality-Guided Prompt Injection  
-https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt  
+[https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt](https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt)  
 ---
 
 ## 利用例(Usage Examples)  
