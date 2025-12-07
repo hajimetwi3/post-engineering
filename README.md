@@ -241,8 +241,8 @@ If you choose to include it, please use:
 ---
 
 ## 初出記録 : First mentioned here  
-- Original post（2025/12/2）：https://x.com/hajimetwi3/status/1996428820455547145  
-- English announcement（2025/12/2）：https://x.com/hajimetwi3/status/1995819055991980093
+- Original post（2025/12/2）：[https://x.com/hajimetwi3/status/1996428820455547145](https://x.com/hajimetwi3/status/1996428820455547145)  
+- English announcement（2025/12/2）：[https://x.com/hajimetwi3/status/1995819055991980093](https://x.com/hajimetwi3/status/1995819055991980093)
   
 ## Archive  
 Registered on the following archive site  
@@ -256,5 +256,5 @@ https://archive.ph/
   
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
-https://hajimetwi3.github.io/veggie-juice-engineering/  
+[https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
    
