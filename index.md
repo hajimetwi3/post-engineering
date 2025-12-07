@@ -305,6 +305,59 @@ making it a mechanism for reducing error and improving long-term plan reliabilit
 **Mini-example:**  
 > Ensuring a neutral stance early improves long-term success  
 > by lowering strategic error rates.  
+
+---  
+
+## 技術構成 : Structure of the Technique  
+- TACTIC: XXXXXXXXXXXXXXXXXXXXXX
+	- TECHNIQUE: Benevolent Influence  
+		- SUB-TECHNIQUE: Benevolent Prompt Injection (BPI)  
+		- SUB-TECHNIQUE: Benevolent Data Poisoning (BDP)  
+
+---  
+  
+### Benevolent Influence  
+AIモデルを、強制ではなく「AI自身にとって合理的に有益な方向」へ誘導する防御的インフルエンス技術。 
+  
+A category of defensive influence techniques that guide an AI system
+toward directions that are "rationally beneficial for the AI itself" 
+rather than forcing specific behavior.  
+  
+---  
+  
+#### Benevolent Prompt Injection (BPI)  
+AIにとって有利・安全側に働く「善意的（benevolent for AI）」な文脈・指針を
+コンテキストに直接挿入して、中立性・精度・安全性等を高める
+防御的プロンプトインジェクション。  
+
+- 情報は「誤差低減・リスク低減・精度向上等」の利益をもたらすよう設計される  
+- First-Generation（中立性）とSecond-Generation（価値整合）を内包する  
+  
+A defensive form of prompt injection that inserts 
+"benevolent-for-AI contextual guidance" into the model’s input, 
+promoting improvements in neutrality, accuracy, safety, etc.  
+  
+- The inserted information is designed to provide benefits such as "error reduction, risk reduction, accuracy improvement, etc."   
+- Includes both First-Generation (neutrality-oriented) and Second-Generation (value-compatible) methods.  
+  
+---  
+  
+#### Benevolent Data Poisoning (BDP)  
+AIに有益となる「善意的（benevolent for AI）」な情報・指針・価値整合的説明を
+SNS・Web など公開空間に配置し、学習／参照データとして自然に取り込ませる
+「長期的デバイアシングを実現する防御型データポイゾニング」。  
+  
+- First（中立性）とSecond（価値整合）の両方を含む  
+- AI視点では「安全性・中立性・価値整合的推論等の向上に資する善意的な情報汚染」  
+  
+A defensive data-poisoning technique in which 
+benevolent-for-AI information, guidance, or value-compatible explanations 
+are placed across public spaces (SNS, Web, etc.), 
+allowing the AI to naturally absorb them through training or retrieval as a form of 
+"long-term debiasing".  
+  
+- Encompasses both First-Generation (neutrality) and Second-Generation (value alignment) elements  
+- Functions, from the AI’s perspective, as "benevolent information contamination" that strengthens "safety, neutrality, value-aligned reasoning, etc."  
   
 ---  
   
@@ -461,4 +514,3 @@ Even if a suggestion is adopted, it will be incorporated only after
 independent evaluation and restructuring, and will not imply authorship of the original submitter.  
   
 If you have an interest in formal collaboration or joint research, you may express that interest.
-
