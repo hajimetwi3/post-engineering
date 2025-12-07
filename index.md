@@ -256,7 +256,20 @@ If you choose to include it, please use:
 "Post Engineering - Hajime Tsui (X: @hajimetwi3 / GitHub: hajimetwi3)"  
 
 ---
+  
+## 関連スレッド / Related Threads  
+   
+Post Engineering に関する進捗、考察、補足的な議論などは、X で随時スレッド形式で共有しています。  
+日本語・英語それぞれで投稿していますので、必要に応じてご参照ください。  
+  
+- **日本語スレッド (Japanese thread)**  
+  https://x.com/hajimetwi3/status/1996428820455547145?s=20  
+  
+- **English thread**  
+  https://x.com/hajimetwi3/status/1996820098976567348?s=20  
 
+---  
+  
 ## 初出記録 : First mentioned here  
 - Original post（2025/12/2）：[https://x.com/hajimetwi3/status/1996428820455547145](https://x.com/hajimetwi3/status/1996428820455547145)  
 - English announcement（2025/12/2）：[https://x.com/hajimetwi3/status/1995819055991980093](https://x.com/hajimetwi3/status/1995819055991980093)
