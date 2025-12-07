@@ -196,7 +196,7 @@ further limiting its potential for abuse and naturally steering the technique to
   
 ---  
 ## 備考: Remarks  
-### LLMの観点から見た効果について  
+### LLMの観点から見た効果について: Effects from the Perspective of Large Language Models (LLMs)  
   
 なお、このような「中立性やバイアス抑制の重要性を説明するガイド文」が
 コンテキスト内に存在する場合、LLMの内部で形成される確率分布
