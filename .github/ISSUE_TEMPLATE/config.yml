@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: "Contact / お問い合わせ"
+    url: "https://github.com/hajimetwi3/post-engineering/issues/1"
+    about: >
+      Please use the comment section of this issue for questions, suggestions,
+      or feedback regarding the Post Engineering project.
+      ポストエンジニアリングに関するご質問・ご意見・改善提案などは、
+      このIssueのコメント欄をご利用ください。
