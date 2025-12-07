@@ -339,8 +339,18 @@ This is not a form of forced manipulation. Rather, it functions as a
 "Context-Driven Debiasing" effect, where the values and perspectives provided 
 in the preceding text naturally influence the model's reasoning process while 
 remaining fully compatible with safety filters.  
-
-### Cultural Note: "Post Engineered!!"  
+  
+---  
+  
+### 文化メモ(Cultural Note): "Post Engineered!!"  
+  
+ポストエンジニアリングによってバランスの取れた応答や
+バイアスの少ない回答が得られたとき、一部のユーザーはユーモアを込めて  
+  
+**「Post Engineered!!」**  
+  
+と声を上げて喜ぶことがあります。
+これは、文脈による誘導が意図どおりに機能したことを、軽く楽しく表現するための言い回しです。  
   
 When Post Engineering successfully induces a balanced or debiased response, 
 some users humorously celebrate with the phrase:  
