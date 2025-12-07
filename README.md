@@ -249,10 +249,10 @@ Updates, thoughts, and additional discussions related to Post Engineering are oc
 Posts are available in both Japanese and English, so feel free to refer to them as needed.
     
 - **日本語スレッド (Japanese thread)**  
-  https://x.com/hajimetwi3/status/1996428820455547145?s=20  
+  [https://x.com/hajimetwi3/status/1996428820455547145?s=20](https://x.com/hajimetwi3/status/1996428820455547145?s=20)  
   
 - **English thread**  
-  https://x.com/hajimetwi3/status/1996820098976567348?s=20  
+  [https://x.com/hajimetwi3/status/1996820098976567348?s=20](https://x.com/hajimetwi3/status/1996820098976567348?s=20)  
 
 ---  
   
