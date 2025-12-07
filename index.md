@@ -174,7 +174,7 @@ of this feels helpful, feel free to keep it in mind whenever you like.
 ```
 
   
-I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided Prompt Injection."  
+I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided Prompt Injection".  
 
   
 ---  
