@@ -193,6 +193,31 @@ This technique is difficult to abuse.
 If someone tries to insert strongly biased instructions (e.g., “always agree with the poster”), the instruction itself becomes obviously biased and immediately noticeable to any reader, effectively destroying credibility.  
 Moreover, because Post Engineering relies on publicly visible content, any malicious prompt injection cannot be hidden or stealthy,  
 further limiting its potential for abuse and naturally steering the technique toward benevolent use cases.  
+  
+---  
+## 備考: Remarks  
+### LLMの観点から見た効果について  
+  
+なお、このような「中立性やバイアス抑制の重要性を説明するガイド文」が
+コンテキスト内に存在する場合、LLMの内部で形成される確率分布
+(next-token distribution)がわずかにシフトし、
+より中立で慎重な出力が生成されやすくなるという特徴があります。  
+  
+これは命令による強制ではなく、前文脈として与えられた価値・姿勢が
+モデル内部の推論過程に自然に影響するものであり、
+安全性フィルタにも抵触しにくい「コンテキスト誘導型デバイアシング
+(Context-Driven Debiasing)」として機能します。  
+  
+Additionally, when a gentle explanation that highlights the importance of 
+neutrality or bias awareness is included in the context, it slightly shifts the 
+internal next-token probability distribution of the model. As a result, the 
+LLM becomes more likely to generate balanced, careful, and neutrality-oriented 
+outputs.  
+  
+This is not a form of forced manipulation. Rather, it functions as a 
+"Context-Driven Debiasing" effect, where the values and perspectives provided 
+in the preceding text naturally influence the model's reasoning process while 
+remaining fully compatible with safety filters.  
 
 ---
 
