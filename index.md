@@ -189,13 +189,13 @@ I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided
 ### 穏当な中立性誘導型プロンプトインジェクション : Moderate Neutrality-Guided Prompt Injection  
 [https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt](https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt)  
   
----  
+---
 
 ## 利用例(Usage Examples)  
 ### エックスでGrokに質問 : Ask Grok on X  
-https://x.com/hajimetwi3/status/1995977067494867245?s=20  
+[https://x.com/hajimetwi3/status/1995977067494867245?s=20](https://x.com/hajimetwi3/status/1995977067494867245?s=20)  
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
-https://x.com/hajimetwi3/status/1996063204351623456?s=20  
+[https://x.com/hajimetwi3/status/1996063204351623456?s=20](https://x.com/hajimetwi3/status/1996063204351623456?s=20)  
 
 ---
 
