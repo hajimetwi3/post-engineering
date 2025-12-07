@@ -257,4 +257,12 @@ https://archive.ph/
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
 [https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
-   
+  
+## Contact / ご連絡について  
+  
+本プロジェクトに関するご質問・ご意見・改善提案などがあれば、GitHub Issues または X（@hajimetwi3）にてご連絡可能です。  
+なお、状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
+  
+For questions, suggestions, or feedback regarding this project, 
+you may contact me via GitHub Issues or on X (formerly Twitter) at @hajimetwi3.  
+Please note that I may not always be able to respond, and your understanding is appreciated.
