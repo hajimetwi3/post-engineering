@@ -250,6 +250,8 @@ Post Engineering に関する進捗、考察、補足的な議論などは、X �
   
 - **English thread**  
   https://x.com/hajimetwi3/status/1996820098976567348?s=20  
+
+---  
   
 ## 初出記録 : First mentioned here  
 - Original post（2025/12/2）：[https://x.com/hajimetwi3/status/1996428820455547145](https://x.com/hajimetwi3/status/1996428820455547145)  
