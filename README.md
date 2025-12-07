@@ -245,6 +245,9 @@ If you choose to include it, please use:
 Post Engineering に関する進捗、考察、補足的な議論などは、X で随時スレッド形式で共有しています。  
 日本語・英語それぞれで投稿していますので、必要に応じてご参照ください。  
   
+Updates, thoughts, and additional discussions related to Post Engineering are occasionally shared on X in thread format.  
+Posts are available in both Japanese and English, so feel free to refer to them as needed.
+    
 - **日本語スレッド (Japanese thread)**  
   https://x.com/hajimetwi3/status/1996428820455547145?s=20  
   
