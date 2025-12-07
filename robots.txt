@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hajimetwi3.github.io/post-engineering/sitemap.xml
