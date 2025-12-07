@@ -1,8 +1,6 @@
 ---
 title: Post Engineering - Official Documentation
----
-
-<meta name="google-site-verification" content="vfGJ-FBxAj72df28iRZOp6eTPCcjqyVEV7-xu6hwuMo" />
+---  
 
 # Post Engineering  
 First invented by ついはじめ (@hajimetwi3) - December 2025  
