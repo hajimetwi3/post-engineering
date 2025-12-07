@@ -243,7 +243,7 @@ remaining fully compatible with safety filters.
 **日本語 (Japanese)**  
 本ページで公開している「プロンプト例」は自由に利用・改変できます（商用利用可）。  
 その際の出典の明記は任意ですが、  
-「Post Engineering - ついはじめ（@hajimetwi3 / GitHub: hajimetwi3）」  
+「Post Engineering - ついはじめ（X: @hajimetwi3 / GitHub: hajimetwi3）」  
 と記載していただけると助かります。  
 
 ---
@@ -253,7 +253,7 @@ The "prompt examples" provided on this page may be freely used and modified
 (commercial use allowed).  
 Attribution is optional, but appreciated.  
 If you choose to include it, please use:  
-"Post Engineering - Hajime Tsui (@hajimetwi3 / GitHub: hajimetwi3)"  
+"Post Engineering - Hajime Tsui (X: @hajimetwi3 / GitHub: hajimetwi3)"  
 
 ---
 
