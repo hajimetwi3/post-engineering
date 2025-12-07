@@ -441,12 +441,12 @@ Part of the original inspiration for Post Engineering emerged from the "Vegetabl
 ## Contact / ご連絡について  
   
 本プロジェクトに関するご質問などがあれば、GitHub Issues または X（@hajimetwi3）にてご連絡可能です。  
-なお、状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
+状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
 
 また、本プロジェクトは個人による研究・記録であり、外部からの提案は参考情報として扱われる場合がありますが、
-共同著者・共同考案者として扱う運用は行っていません。  
-投稿された提案に関する知的財産上の権利主張は受け付けません。  
-外部提案が採用された場合でも、当方が独自に評価・再構成した結果であり、原案者としての扱いは行いません。  
+共同著者・共同考案者として扱う運用は行っていません。投稿された提案に関する知的財産上の権利主張は受け付けません。  
+
+なお、正式な共同研究や協力のご希望がある場合は、その旨をお伝えいただいて構いません。  
   
 For questions regarding this project, 
 you may contact me via GitHub Issues or on X (formerly Twitter) at @hajimetwi3.  
@@ -456,6 +456,9 @@ This project is a personal research record.
 Suggestions from external users may be reviewed as reference information,
 but they do not constitute co-authorship or co-invention.  
   
-No intellectual property claims regarding submitted suggestions will be recognized.  
+No intellectual property claims regarding submitted suggestions will be recognized. 
 Even if a suggestion is adopted, it will be incorporated only after 
 independent evaluation and restructuring, and will not imply authorship of the original submitter.  
+  
+If you have an interest in formal collaboration or joint research, you may express that interest.
+
