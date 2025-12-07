@@ -208,4 +208,9 @@ https://ghostarchive.org/
 https://archive.ph/  
   
 ## reference  
+ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
+  
+Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
+  
 https://hajimetwi3.github.io/veggie-juice-engineering/  
+   
