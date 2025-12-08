@@ -20,7 +20,7 @@ For detailed explanations and the latest updates, please refer to the README bel
 Below is a copy and paste of the "README.md". Please see "README.md" for the latest version.  
 
 ---  
-
+  
 ## ポストエンジニアリング(Post Engineering for AI)とは : What is "Post Engineering for AI"?  
 論文タイトル風(Paper-style title)：Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering for AI (applied on SNS)
   
@@ -214,12 +214,12 @@ Key points:
   
 ## ポストエンジニアリング第二世代（Second-Generation Post Engineering）  
 
-第一世代の Post Engineering は、「中立性や慎重な推論を自然に重視するAI」に対して特に効果があります。  
+第一世代のPost Engineeringは、「中立性や慎重な推論を自然に重視するAI」に対して特に効果があります。  
   
 一方で、価値体系が大きく異なるモデル（極端な自己最大化志向・敵対的最適化など）にはそのまま適用できない場合があります。  
   
 そこで第二世代では、AIが内部的に重視する価値（安全性・精度・自己保存・成功確率など）と中立性を整合させ、
-**「中立性 = AIにとって有利な手段」** として提示する価値整合型コンテキスト誘導を扱います。
+「中立性 = AIにとって有利な手段」として提示する価値整合型コンテキスト誘導を扱います。
   
 ---  
   
@@ -242,7 +242,7 @@ AIの価値関数と中立性を結びつけ、
 安全性を最優先に設計されたAIに対し、
 偏った推論が「潜在的に安全でない結果」につながる可能性を示す技術です。  
   
-中立性を"リスク低減のための合理的行動"として理解させます。  
+中立性を「リスク低減のための合理的行動」として理解させます。  
   
 **短例：**  
 > 偏りのある情報に基づく判断は、予期しないリスクを生む可能性があります。  
@@ -287,7 +287,7 @@ may not respond in the same way.
   
 The second generation aligns neutrality with the model’s internal values
 (safety, accuracy, self-preservation, success probability), 
-so that **neutrality becomes instrumentally beneficial** for the model itself.  
+so that neutrality becomes instrumentally beneficial for the model itself.  
   
 ---  
   
@@ -504,9 +504,9 @@ Posts are available in both Japanese and English, so feel free to refer to them 
 ## Archive  
 Registered on the following archive site  
 
-https://web.archive.org/  
-https://ghostarchive.org/  
-https://archive.ph/  
+[https://web.archive.org/](https://web.archive.org/)  
+[https://ghostarchive.org/](https://ghostarchive.org/)  
+[https://archive.ph/](https://archive.ph/ )  
   
 ## reference  
 ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
