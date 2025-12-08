@@ -319,11 +319,21 @@ making it a mechanism for reducing error and improving long-term plan reliabilit
 ---  
 
 ## 技術構成 : Structure of the Technique  
-- TACTIC: XXXXXXXXXXXXXXXXXXXXXX
-	- TECHNIQUE: Benevolent Influence  
-		- SUB-TECHNIQUE: Benevolent Prompt Injection (BPI)  
-		- SUB-TECHNIQUE: Benevolent Data Poisoning (BDP)  
-
+- TACTIC: XXXXXXXXXXXXXXXXXXX # Reserved for future TACTIC classification (e.g., "Defensive Model Influence")  
+  - TECHNIQUE: Benevolent Influence  
+    - SUB-TECHNIQUE: Benevolent Prompt Injection (BPI)  
+      - Post Engineering (1st Gen)  
+        - First-Gen Representative Methods  
+          - MNG-PI (Moderate Neutrality-Guided Prompt Injection)  
+          - MSNI (Multi-Style Neutrality Injection)  
+          - Web Post-Engineering  
+          - toALL (SNS / WWW)  
+          - Collective Posting (toALL): Role in BPI: Large-scale generation of BPI instances  
+      - Post Engineering (2nd Gen)  
+        - (VCSI, SPW, INI, AVAL)  
+    - SUB-TECHNIQUE: Benevolent Data Poisoning (BDP)  
+      - Collective Posting (toALL): Role in BDP: Public-space contamination leading to training-time absorption  
+  
 ---  
   
 ### Benevolent Influence  
