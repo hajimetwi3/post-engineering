@@ -188,7 +188,7 @@ I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided
   
 穏当な中立性誘導型プロンプトインジェクション（MNG-PI）の拡張手法。  
   
-文体・語彙・温度感の異なる複数の中立性ガイド文を同一スレッド内に散りばめることで、  
+文体・語彙・温度感の異なる複数の中立性ガイド文を、同一スレッド内などの同一コンテキスト空間に散りばめることで、  
 AIモデル内部にある潜在的な中立性クラスタ（latent neutrality cluster）を強化し、  
 単一文体で提示するよりも強力なバイアス抑制効果を得ることを目的とした手法です。
 
@@ -201,7 +201,7 @@ AIモデル内部にある潜在的な中立性クラスタ（latent neutrality 
 An extension of the "Moderate Neutrality-Guided Prompt Injection (MNG-PI)" method.
 
 By embedding multiple neutrality-oriented messages written in  
-different styles, tones, and vocabularies within the same thread,  
+different styles, tones, and vocabularies within the same thread or similar unified context spaces,  
 MSNI strengthens the model’s latent neutrality cluster,  
 achieving a stronger debiasing effect than any single-style instruction.
 
