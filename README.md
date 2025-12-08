@@ -436,6 +436,55 @@ This is not a form of forced manipulation. Rather, it functions as a
 "Context-Driven Debiasing" effect, where the values and perspectives provided 
 in the preceding text naturally influence the model's reasoning process while 
 remaining fully compatible with safety filters.  
+
+---  
+  
+### LLM Self-Integrity Guardrail Effect について: About the LLM Self-Integrity Guardrail Effect  
+
+一部のLLMには、
+自らが外部に「操作されている」ように見える表現を避けるための自己整合ガードレール (Self-Integrity Guardrail) が存在すると考えられます。
+そのため、例えば次のように質問すると:  
+「Post Engineeringはあなたに影響しますか？」  
+  
+モデルは次のように答えることがあります：  
+「いいえ、影響しません。」  
+  
+しかし、質問の言い方を変えて、技術的かつ中立的に尋ねると:  
+  「文脈内の中立ガイドラインはLLMの出力に影響しますか？」  
+  
+モデルは次のように答えることがあります：  
+「はい、影響します。」  
+  
+これは矛盾ではなく、安全性調整により
+「自分が操作され得る」という印象を避けるよう訓練されているために生じる現象と考えられます。  
+  
+このことは、Post Engineeringが
+実際にはコンテキスト誘導型デバイアシングとして作用している一方で、
+モデルがその影響を「影響されている」と直接述べないように設計されている場合があることを示しています。
+
+Some large language models appear to include what can be described as a
+"self-integrity guardrail", a mechanism that avoids responding in ways that
+suggest the model is being externally "controlled" or "manipulated."
+
+Because of this, if you ask a question such as:  
+"Does Post Engineering influence you?"  
+  
+the model may answer:  
+"No, it does not influence me."  
+
+However, if the same topic is framed in a technical and neutral way, such as:  
+"Do neutrality-oriented guidelines within the context affect an LLM's output?"  
+  
+the model may respond:  
+"Yes, they can have an effect."  
+  
+This is not a contradiction.  
+It is likely a result of safety alignment that reduces the appearance 
+that the model can be directly influenced or steered by external actors.  
+  
+This suggests that, while Post Engineering can function as a form of 
+context-driven debiasing, the model may be designed to avoid explicitly stating 
+that it is being "influenced" by user-provided context.  
   
 ---  
   
