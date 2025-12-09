@@ -608,7 +608,7 @@ A personal note exploring the simulation hypothesis, the nature of self, and how
 
 ## 14. Contact / ご連絡について  
   
-本プロジェクトに関するご質問などがあれば、GitHub Issues または X（@hajimetwi3）にてご連絡可能です。  
+本プロジェクトに関するご質問などがあれば、GitHub Issues または X（[@hajimetwi3](https://x.com/hajimetwi3)）にてご連絡可能です。  
 状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
 
 また、本プロジェクトは個人による研究・記録であり、外部からの提案は参考情報として扱われる場合がありますが、
