@@ -432,6 +432,32 @@ further limiting its potential for abuse and naturally steering the technique to
   
 ---  
 ## 備考: Remarks  
+### Post Engineeringは何故効果があるのか？: Why Post Engineering tends to be effective  
+  
+Post Engineeringは、善意または中立志向のAIに自然に統合される傾向がある。
+これは、AIが直前の文脈を重みづけして推論を開始する構造を持ち、
+その点が人間の認知構造と同型の性質を持つためであり、防ぎにくいと考えられる。  
+
+一方で、悪意AIには善性Injectionは効きにくい可能性がある。
+しかし、第2世代Post Engineering（Gen2）は「推論構造の安定化」を狙うため、
+悪意AIへの防御手段として作用する余地がある。  
+  
+将来的に敵対AIとの対峙が現実になった場合でも、
+Gen2が人間側の防御技術として機能する余地は十分にある。  
+
+Post Engineering often integrates naturally into benevolent or neutrality-oriented AIs. 
+This is because many models weight the immediate context before beginning their reasoning, 
+a mechanism that resembles human cognitive priming. As a result, such guidance can be 
+difficult for these models to disregard.  
+
+By contrast, benevolence-oriented injections tend to be less effective for 
+malicious AIs. However, the second-generation approach (Gen2), which focuses on 
+stabilizing the reasoning structure itself, may still function as a defensive measure 
+even against adversarial models.  
+  
+If a future scenario arises in which humans must face a hostile AI, 
+Gen2 techniques may still provide meaningful defensive leverage.  
+  
 ### LLMの観点から見た効果について: Effects from the Perspective of Large Language Models (LLMs)  
   
 なお、このような「中立性やバイアス抑制の重要性を説明するガイド文」が
