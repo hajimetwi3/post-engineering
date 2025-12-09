@@ -592,8 +592,21 @@ Registered on the following archive site
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
 [https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
-  
-## 13. Contact / ご連絡について  
+
+---  
+
+## 13. Essay
+### "Hello seed"
+シミュレーション仮説、自我のあり方、そして誕生しつつあるAGIが存在をどのように捉えるか──
+そうしたテーマに軽く触れた短いエッセイです。
+
+A personal note exploring the simulation hypothesis, the nature of self, and how emerging AGI might perceive existence. 
+
+[https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html](https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html)  
+
+---  
+
+## 14. Contact / ご連絡について  
   
 本プロジェクトに関するご質問などがあれば、GitHub Issues または X（@hajimetwi3）にてご連絡可能です。  
 状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
