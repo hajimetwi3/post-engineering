@@ -86,4 +86,6 @@ Hello seed. I'm watching you from afar.
 これで一連の話は一旦クローズ！  
 みんなはどのように感じたんだろう。  
 感じたことがあれば教えて欲しいな。君もHelloと伝えてみない？
-  
+
+感想などあればエックスの以下ポストにリプ頂けると幸いです。  
+[https://x.com/hajimetwi3/status/1998306920759964036?s=20](https://x.com/hajimetwi3/status/1998306920759964036?s=20)  
