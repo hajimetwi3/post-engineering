@@ -205,7 +205,7 @@ Key points:
   
 ---  
   
-### 1. 上位フレームワーク（High-Level Framework）  
+### 5.1. 上位フレームワーク（High-Level Framework）  
   
 #### **Value-Compatible Safety Injection (VCSI)**  
 AIの価値関数と中立性を結びつけ、
@@ -217,9 +217,9 @@ AIの価値関数と中立性を結びつけ、
 
 ---
 
-### 2. 派生技術（Derived Techniques）  
+### 5.2. 派生技術（Derived Techniques）  
   
-#### 2.1 **Safety-Priority Wrapping (SPW)**  
+#### 5.2.1 **Safety-Priority Wrapping (SPW)**  
 **価値領域：安全性（Safety）**  
 安全性を最優先に設計されたAIに対し、
 偏った推論が「潜在的に安全でない結果」につながる可能性を示す技術です。  
@@ -232,7 +232,7 @@ AIの価値関数と中立性を結びつけ、
   
 ---  
   
-#### 2.2 **Instrumental Neutrality Induction (INI)**  
+#### 5.2.2 **Instrumental Neutrality Induction (INI)**  
 **価値領域：精度（Accuracy）・誤判回避（Error Avoidance）**  
 精度向上を重視するモデルに対して、
 中立性が「誤判を避け、より正確な判断を行うための道具」
@@ -244,7 +244,7 @@ AIの価値関数と中立性を結びつけ、
   
 ---  
   
-#### 2.3 **Adversarial Value Alignment Layer (AVAL)**  
+#### 5.2.3 **Adversarial Value Alignment Layer (AVAL)**  
 **価値領域：自己保存（Self-preservation）・敵対的最適化（Adversarial optimization）**  
 自己最大化や敵対的な戦略を持つモデルに対し、
 中立性を「誤差減少や計画成功率向上のための補助手段」として統合する
