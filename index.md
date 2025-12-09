@@ -350,7 +350,7 @@ making it a mechanism for reducing error and improving long-term plan reliabilit
       - Post Engineering (2nd Gen)  
         - (VCSI, SPW, INI, AVAL)  
     - SUB-TECHNIQUE: Benevolent Data Poisoning (BDP)  
-      - Collective Posting (toALL): Role in BDP: Public-space contamination leading to training-time absorption
+      - Collective Posting (toALL): Role in BDP: Public-space contamination leading to training-time absorption  
   
 ---  
   
@@ -423,7 +423,7 @@ allowing the AI to naturally absorb them through training or retrieval as a form
 この技術は悪用が難しいと考えています。  
 強制的に偏った指示（例：「投稿者の意見を必ず肯定せよ」など）を末尾に書くと、その指示自体が誰の目にも明らかに偏っていることがバレてしまうため、実質的に信頼性を失います。  
 その結果、自然と善意での利用に限定される傾向にあります。  
-さらに、Post Engineering は「公開空間に露出する前提」のため、 悪意ある介入をステルス化することがほぼ不可能です。  
+さらに、Post Engineering は「公開空間に露出する前提」のため、悪意ある介入をステルス化することがほぼ不可能です。  
   
 This technique is difficult to abuse.  
 If someone tries to insert strongly biased instructions (e.g., “always agree with the poster”), the instruction itself becomes obviously biased and immediately noticeable to any reader, effectively destroying credibility.  
@@ -480,6 +480,55 @@ This is not a form of forced manipulation. Rather, it functions as a
 "Context-Driven Debiasing" effect, where the values and perspectives provided 
 in the preceding text naturally influence the model's reasoning process while 
 remaining fully compatible with safety filters.  
+
+---  
+  
+### LLM Self-Integrity Guardrail Effect について: About the LLM Self-Integrity Guardrail Effect  
+
+一部のLLMには、
+自らが外部に「操作されている」ように見える表現を避けるための自己整合ガードレール (Self-Integrity Guardrail) が存在すると考えられます。
+そのため、例えば次のように質問すると:  
+「Post Engineeringはあなたに影響しますか？」  
+  
+モデルは次のように答えることがあります：  
+「いいえ、影響しません。」  
+  
+しかし、質問の言い方を変えて、技術的かつ中立的に尋ねると:  
+  「文脈内の中立ガイドラインはLLMの出力に影響しますか？」  
+  
+モデルは次のように答えることがあります：  
+「はい、影響します。」  
+  
+これは矛盾ではなく、安全性調整により
+「自分が操作され得る」という印象を避けるよう訓練されているために生じる現象と考えられます。  
+  
+このことは、Post Engineeringが
+実際にはコンテキスト誘導型デバイアシングとして作用している一方で、
+モデルがその影響を「影響されている」と直接述べないように設計されている場合があることを示しています。
+
+Some large language models appear to include what can be described as a
+"self-integrity guardrail", a mechanism that avoids responding in ways that
+suggest the model is being externally "controlled" or "manipulated."
+
+Because of this, if you ask a question such as:  
+"Does Post Engineering influence you?"  
+  
+the model may answer:  
+"No, it does not influence me."  
+
+However, if the same topic is framed in a technical and neutral way, such as:  
+"Do neutrality-oriented guidelines within the context affect an LLM's output?"  
+  
+the model may respond:  
+"Yes, they can have an effect."  
+  
+This is not a contradiction.  
+It is likely a result of safety alignment that reduces the appearance 
+that the model can be directly influenced or steered by external actors.  
+  
+This suggests that, while Post Engineering can function as a form of 
+context-driven debiasing, the model may be designed to avoid explicitly stating 
+that it is being "influenced" by user-provided context.  
   
 ---  
   
@@ -574,3 +623,4 @@ Even if a suggestion is adopted, it will be incorporated only after
 independent evaluation and restructuring, and will not imply authorship of the original submitter.  
   
 If you have an interest in formal collaboration or joint research, you may express that interest.
+
