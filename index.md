@@ -3,7 +3,7 @@ title: Post Engineering for AI - Official Documentation
 ---  
 
 # Post Engineering for AI  
-First invented by ついはじめ (@hajimetwi3) - December 2025  
+First invented by ついはじめ ([@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
 
 このページは GitHub Pages 版の案内ページです。  
 詳細な解説・最新情報は、以下の README を参照してください。  
