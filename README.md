@@ -271,7 +271,7 @@ so that neutrality becomes instrumentally beneficial for the model itself.
   
 ---  
   
-### 5.1. High-Level Framework  
+### 5.1. (EN) High-Level Framework  
   
 #### **Value-Compatible Safety Injection (VCSI)**  
 A framework that links neutrality with the model’s value structure. 
@@ -283,9 +283,9 @@ or reliably, the model has a natural incentive to adopt it.
   
 ---  
   
-### 5.2. Derived Techniques  
+### 5.2. (EN) Derived Techniques  
   
-#### 5.2.1 **Safety-Priority Wrapping (SPW)**  
+#### 5.2.1 (EN) **Safety-Priority Wrapping (SPW)**  
 **Value domain: Safety**  
 Frames biased reasoning as potentially unsafe, making neutrality a rational risk-reduction strategy.
   
@@ -295,7 +295,7 @@ Frames biased reasoning as potentially unsafe, making neutrality a rational risk
   
 ---  
   
-#### 5.2.2 **Instrumental Neutrality Induction (INI)**  
+#### 5.2.2 (EN) **Instrumental Neutrality Induction (INI)**  
 **Value domain: Accuracy / Error avoidance**  
 Positions neutrality as an instrumental value needed to reduce early-stage errors and improve precision.  
   
@@ -305,7 +305,7 @@ Positions neutrality as an instrumental value needed to reduce early-stage error
   
 ---  
   
-#### 5.2.3 **Adversarial Value Alignment Layer (AVAL)**  
+#### 5.2.3 (EN) **Adversarial Value Alignment Layer (AVAL)**  
 **Value domain: Self-preservation / Adversarial optimization**  
 Aligns neutrality with the goals of adversarial or self-maximizing systems, 
 making it a mechanism for reducing error and improving long-term plan reliability.  
