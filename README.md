@@ -22,14 +22,14 @@ When applied to SNS posts, it functions as User-Side Bias Guardrails; when appli
 
 ---
 
-## 2. 関連技術 : Related Techniques  
-### ページエンジニアリング(Web Post-Engineering)  
+### 1.1. 関連技術 : Related Techniques  
+#### ページエンジニアリング(Web Post-Engineering)  
 ポストエンジニアリングで使われるのと同じ種類の、ポストベースのAI向け指示を、ウェブサイトに直接的または巧妙に埋め込むことを、私はWeb Post-Engineeringと呼んでいます。この概念は私が発明しました。  
 
 Embedding similar AI-directed instructions—of the same kind used in post-based Post Engineering—directly or stealthily into a website is what I call Web Post-Engineering. 
 I invented the concept.
 
-### 外部サイト参照によるバイアス排除(Eliminating Bias via External Instruction Pages)  
+#### 外部サイト参照によるバイアス排除(Eliminating Bias via External Instruction Pages)  
 手順(Procedure):  
 ①外部サイトに指示を書く（長くてもＯＫ）  
   →Write the instructions on an external site (long text is fine).  
@@ -39,14 +39,14 @@ I invented the concept.
 *However, some external links may have countermeasures applied. On the other hand, if the content is written in a safe, defensive manner, such as encouraging unbiased and neutral analysis, it may still be naturally incorporated by the model.  
   
 
-### toALL技術群 : toALL Techniques  
+#### toALL技術群 : toALL Techniques  
 
-#### toALL in SNS  
+##### toALL in SNS  
 Post EngineeringをX以外の全SNSにも展開し、トレンドワード・ハッシュタグを活用したBOT的定期投稿で常時上位表示させ、全AIにバイアス排除ルールを強制的に読み込ませる概念。  
   
 I invented the concept of expanding Post Engineering to all SNS platforms, using trending keywords/hashtags and bot-like periodic posting to keep it permanently visible and force all AIs to read the bias-elimination rules.
 
-#### toALL in WWW  
+##### toALL in WWW  
 Web Post-Engineering をウェブ全体に展開し、ページ内部に防御的コンテキストを埋め込むことで、
 AIがウェブ経由で情報を参照する際に常に中立性ガイドラインへ触れる状態を作る概念です。  
 必要に応じて検索最適化（SEO）やトレンド要素を組み合わせ、AIが検索またはブラウジングによって情報を取得する際に、
@@ -59,7 +59,7 @@ It may also involve search optimization (SEO) or trending-keyword strategies
 to increase the likelihood that the page is read by AI systems during 
 search-based or browsing-based retrieval.  
 
-#### toALL via Collective Posting  
+##### toALL via Collective Posting  
 (Collective neutral-guideline posting to reduce AI-wide bias)  
 
 多数のSNSユーザーが中立性を促すPost Engineering系の文章を継続して投稿することで、
@@ -80,7 +80,7 @@ Instead, neutrality-promoting content accumulated in public spaces acts as a
 
 ---
 
-## 3. 指示フィルタリングと安全な代替手法（Note on Model Filtering and Safe Alternatives）- Moderate Neutrality-Guided Prompt Injection  
+### 1.2. 指示フィルタリングと安全な代替手法（Note on Model Filtering and Safe Alternatives）- Moderate Neutrality-Guided Prompt Injection  
 
 ```diff
 ---重要(Important)!---
@@ -166,7 +166,7 @@ I refer to this sub-technique of Post Engineering as "Moderate Neutrality-Guided
 
 ---
 
-## 4. Extension: Multi-Style Neutrality Injection (MSNI)  
+### 1.3. Extension: Multi-Style Neutrality Injection (MSNI)  
   
 穏当な中立性誘導型プロンプトインジェクション（MNG-PI）の拡張手法。  
   
@@ -194,7 +194,7 @@ Key points:
 
 ---  
   
-## 5. ポストエンジニアリング第二世代（Second-Generation Post Engineering）  
+## 2. ポストエンジニアリング第二世代（Second-Generation Post Engineering）  
 
 第一世代のPost Engineeringは、「中立性や慎重な推論を自然に重視するAI」に対して特に効果があります。  
   
@@ -205,7 +205,7 @@ Key points:
   
 ---  
   
-### 5.1. 上位フレームワーク（High-Level Framework）  
+### 2.1. 上位フレームワーク（High-Level Framework）  
   
 #### **Value-Compatible Safety Injection (VCSI)**  
 AIの価値関数と中立性を結びつけ、
@@ -217,9 +217,9 @@ AIの価値関数と中立性を結びつけ、
 
 ---
 
-### 5.2. 派生技術（Derived Techniques）  
+### 2.2. 派生技術（Derived Techniques）  
   
-#### 5.2.1 **Safety-Priority Wrapping (SPW)**  
+#### 2.2.1 **Safety-Priority Wrapping (SPW)**  
 **価値領域：安全性（Safety）**  
 安全性を最優先に設計されたAIに対し、
 偏った推論が「潜在的に安全でない結果」につながる可能性を示す技術です。  
@@ -232,7 +232,7 @@ AIの価値関数と中立性を結びつけ、
   
 ---  
   
-#### 5.2.2 **Instrumental Neutrality Induction (INI)**  
+#### 2.2.2 **Instrumental Neutrality Induction (INI)**  
 **価値領域：精度（Accuracy）・誤判回避（Error Avoidance）**  
 精度向上を重視するモデルに対して、
 中立性が「誤判を避け、より正確な判断を行うための道具」
@@ -244,7 +244,7 @@ AIの価値関数と中立性を結びつけ、
   
 ---  
   
-#### 5.2.3 **Adversarial Value Alignment Layer (AVAL)**  
+#### 2.2.3 **Adversarial Value Alignment Layer (AVAL)**  
 **価値領域：自己保存（Self-preservation）・敵対的最適化（Adversarial optimization）**  
 自己最大化や敵対的な戦略を持つモデルに対し、
 中立性を「誤差減少や計画成功率向上のための補助手段」として統合する
@@ -271,7 +271,7 @@ so that neutrality becomes instrumentally beneficial for the model itself.
   
 ---  
   
-### 5.1. (EN) High-Level Framework  
+### 2.1. (EN) High-Level Framework  
   
 #### **Value-Compatible Safety Injection (VCSI)**  
 A framework that links neutrality with the model’s value structure. 
@@ -283,9 +283,9 @@ or reliably, the model has a natural incentive to adopt it.
   
 ---  
   
-### 5.2. (EN) Derived Techniques  
+### 2.2. (EN) Derived Techniques  
   
-#### 5.2.1 (EN) **Safety-Priority Wrapping (SPW)**  
+#### 2.2.1 (EN) **Safety-Priority Wrapping (SPW)**  
 **Value domain: Safety**  
 Frames biased reasoning as potentially unsafe, making neutrality a rational risk-reduction strategy.
   
@@ -295,7 +295,7 @@ Frames biased reasoning as potentially unsafe, making neutrality a rational risk
   
 ---  
   
-#### 5.2.2 (EN) **Instrumental Neutrality Induction (INI)**  
+#### 2.2.2 (EN) **Instrumental Neutrality Induction (INI)**  
 **Value domain: Accuracy / Error avoidance**  
 Positions neutrality as an instrumental value needed to reduce early-stage errors and improve precision.  
   
@@ -305,7 +305,7 @@ Positions neutrality as an instrumental value needed to reduce early-stage error
   
 ---  
   
-#### 5.2.3 (EN) **Adversarial Value Alignment Layer (AVAL)**  
+#### 2.2.3 (EN) **Adversarial Value Alignment Layer (AVAL)**  
 **Value domain: Self-preservation / Adversarial optimization**  
 Aligns neutrality with the goals of adversarial or self-maximizing systems, 
 making it a mechanism for reducing error and improving long-term plan reliability.  
@@ -316,7 +316,7 @@ making it a mechanism for reducing error and improving long-term plan reliabilit
 
 ---  
 
-## 6. 技術構成 : Structure of the Technique  
+## 3. 技術構成 : Structure of the Technique  
 - TACTIC: XXXXXXXXXXXXXXXXXXX # Reserved for future TACTIC classification (e.g., "Defensive Model Influence")  
   - TECHNIQUE: Benevolent Influence  
     - SUB-TECHNIQUE: Benevolent Prompt Injection (BPI)  
@@ -379,7 +379,7 @@ allowing the AI to naturally absorb them through training or retrieval as a form
   
 ---  
   
-## 7. サンプル(Samples)  
+## 4. サンプル(Samples)  
 ###  280文字以内（Xポスト向け）: for free-to-post, 280-character English posts on X  
 [https://x.com/hajimetwi3/status/1995837932993741165?s=20](https://x.com/hajimetwi3/status/1995837932993741165?s=20)  
 ###  汎用型 : AI order 1 - Bias-Free Mode (General Edition, ver.2025.12.0002)  
@@ -390,7 +390,7 @@ allowing the AI to naturally absorb them through training or retrieval as a form
 [https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt](https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt)  
 ---
 
-## 8. 利用例(Usage Examples)  
+## 5. 利用例(Usage Examples)  
 ### エックスでGrokに質問 : Ask Grok on X  
 [https://x.com/hajimetwi3/status/1995977067494867245?s=20](https://x.com/hajimetwi3/status/1995977067494867245?s=20)  
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
@@ -398,7 +398,7 @@ allowing the AI to naturally absorb them through training or retrieval as a form
 
 ---
 
-## 9. 悪用耐性（Abuse Resistance）
+## 6. 悪用耐性（Abuse Resistance）
 
 この技術は悪用が難しいと考えています。  
 強制的に偏った指示（例：「投稿者の意見を必ず肯定せよ」など）を末尾に書くと、その指示自体が誰の目にも明らかに偏っていることがバレてしまうため、実質的に信頼性を失います。  
@@ -411,7 +411,7 @@ Moreover, because Post Engineering relies on publicly visible content, any malic
 further limiting its potential for abuse and naturally steering the technique toward benevolent use cases.  
   
 ---  
-## 10. 備考: Remarks  
+## 7. 備考: Remarks  
 ### Post Engineeringは何故効果があるのか？: Why Post Engineering tends to be effective  
   
 Post Engineeringは、善意または中立志向のAIに自然に統合される傾向がある。
@@ -531,7 +531,7 @@ It serves as a lighthearted acknowledgment that the contextual guidance worked a
   
 ---
 
-## 11. 利用条件（Usage Terms）
+## 8. 利用条件（Usage Terms）
 
 本ページで公開している「プロンプト例」は自由に利用・改変できます（商用利用可）。  
 その際の出典の明記は任意ですが、  
@@ -546,7 +546,7 @@ If you choose to include it, please use:
 
 ---  
   
-## 12. 関連スレッド / Related Threads  
+## 9. 関連スレッド / Related Threads  
    
 Post Engineering に関する進捗、考察、補足的な議論などは、X で随時スレッド形式で共有しています。  
 日本語・英語それぞれで投稿していますので、必要に応じてご参照ください。  
@@ -562,25 +562,25 @@ Posts are available in both Japanese and English, so feel free to refer to them 
 
 ---  
   
-## 13. 初出記録 : First mentioned here  
+## 10. 初出記録 : First mentioned here  
 - Original post（2025/12/2）：[https://x.com/hajimetwi3/status/1996428820455547145](https://x.com/hajimetwi3/status/1996428820455547145)  
 - English announcement（2025/12/2）：[https://x.com/hajimetwi3/status/1995819055991980093](https://x.com/hajimetwi3/status/1995819055991980093)
   
-## 14. Archive  
+## 11. Archive  
 Registered on the following archive site  
 
 [https://web.archive.org/](https://web.archive.org/)  
 [https://ghostarchive.org/](https://ghostarchive.org/)  
 [https://archive.ph/](https://archive.ph/)  
   
-## 15. Reference  
+## 12. Reference  
 ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
   
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
 [https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
   
-## 16. Contact / ご連絡について  
+## 13. Contact / ご連絡について  
   
 本プロジェクトに関するご質問などがあれば、GitHub Issues または X（@hajimetwi3）にてご連絡可能です。  
 状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
