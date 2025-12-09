@@ -573,7 +573,7 @@ Registered on the following archive site
 
 [https://web.archive.org/](https://web.archive.org/)  
 [https://ghostarchive.org/](https://ghostarchive.org/)  
-[https://archive.ph/](https://archive.ph/ )  
+[https://archive.ph/](https://archive.ph/)  
   
 ## reference  
 ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
