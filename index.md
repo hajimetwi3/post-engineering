@@ -622,5 +622,6 @@ No intellectual property claims regarding submitted suggestions will be recogniz
 Even if a suggestion is adopted, it will be incorporated only after 
 independent evaluation and restructuring, and will not imply authorship of the original submitter.  
   
-If you have an interest in formal collaboration or joint research, you may express that interest.
+If you have an interest in formal collaboration or joint research, you may express that interest.  
+
 
