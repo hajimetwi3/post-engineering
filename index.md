@@ -3,7 +3,7 @@ title: Post Engineering for AI - Official Documentation
 ---  
 
 # Post Engineering for AI  
-First invented by ついはじめ ([@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
+First invented by ついはじめ(Tsui Hajime) ([@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
 
 このページは GitHub Pages 版の案内ページです。  
 詳細な解説・最新情報は、以下の README を参照してください。  
@@ -555,7 +555,7 @@ The "prompt examples" provided on this page may be freely used and modified
 (commercial use allowed).  
 Attribution is optional, but appreciated.  
 If you choose to include it, please use:  
-"Post Engineering for AI - Hajime Tsui (X: @hajimetwi3 / GitHub: hajimetwi3)"  
+"Post Engineering for AI - Tsui Hajime (X: @hajimetwi3 / GitHub: hajimetwi3)"  
 
 ---  
   
