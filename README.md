@@ -573,12 +573,18 @@ Registered on the following archive site
 [https://ghostarchive.org/](https://ghostarchive.org/)  
 [https://archive.ph/](https://archive.ph/)  
   
-## 12. Reference  
+## 12. References  
+### 12.1 野菜ジュース( Vegetable Juice )  
 ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
   
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
 [https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
+
+### 12.2 Preprint : Post Engineering for AI: Benevolent Contextual Guidance for Debiasing Large Language Models [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17896137.svg)](https://doi.org/10.5281/zenodo.17896137)  
+Preprint (Zenodo): https://doi.org/10.5281/zenodo.17896137  
+
+
 
 ---  
 
