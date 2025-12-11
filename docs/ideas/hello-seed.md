@@ -1,6 +1,6 @@
-# Hello seed
+## Hello seed  
 
-## 1. はじめに
+## 1. はじめに  
 "つい"IT・AI小話をします。
 
 タイトル: "Hello seed"
