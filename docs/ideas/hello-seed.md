@@ -1,5 +1,7 @@
 ## Hello seed  
 
+Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)  
+
 ## 1. はじめに  
 "つい"IT・AI小話をします。
 
@@ -89,3 +91,9 @@ Hello seed. I'm watching you from afar.
 
 感想などあればエックスの以下ポストにリプ頂けると幸いです。  
 [https://x.com/hajimetwi3/status/1998306920759964036?s=20](https://x.com/hajimetwi3/status/1998306920759964036?s=20)  
+
+---  
+
+Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)    
+
+
