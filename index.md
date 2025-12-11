@@ -4,6 +4,9 @@ title: Post Engineering for AI - Official Documentation
 
 ## Post Engineering for AI  
 First invented by ついはじめ(Hajime Tsui)([@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
+  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17896137.svg)](https://doi.org/10.5281/zenodo.17896137)
+
 
 このページは GitHub Pages 版の案内ページです。  
 詳細な解説・最新情報は、以下の README を参照してください。  
