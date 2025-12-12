@@ -604,7 +604,7 @@ Part of the original inspiration for Post Engineering emerged from the "Vegetabl
 [https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
 
 ### 12.2 Preprint : Post Engineering for AI: Benevolent Contextual Guidance for Debiasing Large Language Models   
-Preprint (Zenodo, Concept DOI - atest version): [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
+Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
 
 ---  
 
