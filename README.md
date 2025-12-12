@@ -1,4 +1,4 @@
-# Post Engineering for AI  
+# Post Engineering for AI ( PE4AI )  
 First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajimetwi3)) - December 2025
 
 ---
