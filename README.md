@@ -190,7 +190,29 @@ achieving a stronger debiasing effect than any single-style instruction.
 Key points:
 - The consistency across multiple styles is interpreted as "a shared value, not a manipulative command"
 - As a result, it avoids safety filters more effectively and forms neutrality as an embedded value within the model
-- Naturally categorized as a sibling method to MNG-PI  
+- Naturally categorized as a sibling method to MNG-PI
+
+---
+
+### 1.4. まとめと観察メモ（Summary and Observational Notes）  
+
+MNG-PIやMSNIを含むPE4AIは、チャットにおいても効果を示す場合があります。
+特に注目されるのは、累積効果が、指示内容がわずかに言い換えられた場合でも維持される点であり、
+意味内容の新規性ではなく「反復そのもの」が、緩やかな中立化に寄与している可能性を示唆している事です。  
+  
+同様の挙動は、事前指示や、ユーザーが提供する参照ファイルなど、
+異なる入力チャネルにおいても観察されています。
+
+  
+PE4AI, including MNG-PI and MSNI, can also exhibit effects within 
+multi-turn chat interactions. 
+Notably, these effects may accumulate across turns and tend to persist 
+even when the instructions are only slightly rephrased. This suggests 
+that gradual neutralization may be driven less by semantic novelty and 
+more by repetition itself.  
+  
+Similar behavior has also been observed across other input channels, 
+such as system-level instructions and user-provided reference files.  
 
 ---  
   
