@@ -1,5 +1,5 @@
 # Post Engineering for AI  
-First invented by ついはじめ(Hajime Tsui) ([@hajimetwi3](https://x.com/hajimetwi3)) - December 2025
+First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajimetwi3)) - December 2025
 
 ---
 
