@@ -436,13 +436,14 @@ further limiting its potential for abuse and naturally steering the technique to
 
 ## 7. 善意的文脈ガイダンス下における推論時価値可塑性(Inference-Time Value Plasticity under Benevolent Contextual Guidance)  
 
-学習データに符号化された価値判断が強く偏っており、再学習によって容易に変更できない場合であっても、
+学習データに符号化された判断傾向が強く偏っており、再学習によって容易に変更できない場合であっても、
 推論時（inference time）において持続的かつ善意的な文脈ガイダンスを与えることで、
-LLM の推論挙動を、より中立的な帰結へとシフトさせることが可能である。  
+LLM の推論挙動を、より中立的な帰結へとシフトさせることが可能である。
   
-Even when value judgments encoded in training data are strongly biased and effectively irreversible, 
+Even when judgment patterns encoded in training data are strongly biased 
+and effectively irreversible through retraining, 
 LLM reasoning behavior can still be shifted toward more neutral outcomes 
-through sustained, benevolent contextual guidance at inference time.  
+through sustained, benevolent contextual guidance at inference time.
   
 ---  
 ## 8. 備考: Remarks  
