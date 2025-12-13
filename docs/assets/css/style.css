@@ -10,6 +10,10 @@ html, body {
   color: var(--text);
 }
 
+h1, h2, h3, h4 {
+  color: #f0f6fc;
+}
+
 a {
   color: var(--link);
 }
