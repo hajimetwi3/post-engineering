@@ -431,9 +431,29 @@ This technique is difficult to abuse.
 If someone tries to insert strongly biased instructions (e.g., “always agree with the poster”), the instruction itself becomes obviously biased and immediately noticeable to any reader, effectively destroying credibility.  
 Moreover, because Post Engineering relies on publicly visible content, any malicious prompt injection cannot be hidden or stealthy,  
 further limiting its potential for abuse and naturally steering the technique toward benevolent use cases.  
+
+---  
+
+## 7. 善意的文脈ガイダンス下における推論時価値可塑性(Inference-Time Value Plasticity under Benevolent Contextual Guidance)  
+
+学習データに符号化された価値判断が強く偏っており、再学習によって容易に変更できない場合であっても、
+推論時（inference time）において持続的かつ善意的な文脈ガイダンスを与えることで、
+LLM の推論挙動を、より中立的な帰結へとシフトさせることが可能である。  
+  
+この観察結果は、Post Engineering for AI（PE4AI）の自然な拡張として位置づけることができる。
+すなわち、善意的な文脈的影響は、単なるバイアス緩和技法として機能するにとどまらず、
+推論時における価値の部分的な再調整をもたらすメカニズムとして作用しうることを示唆している。  
+
+Even when value judgments encoded in training data are strongly biased and effectively irreversible, 
+LLM reasoning behavior can still be shifted toward more neutral outcomes 
+through sustained, benevolent contextual guidance at inference time.  
+
+This observation can be seen as a natural extension of Post Engineering for AI (PE4AI), 
+suggesting that benevolent contextual influence operates not only as a bias-mitigation technique, 
+but also as a mechanism for partial value recalibration at inference time.  
   
 ---  
-## 7. 備考: Remarks  
+## 8. 備考: Remarks  
 ### Post Engineeringは何故効果があるのか？: Why Post Engineering tends to be effective  
   
 Post Engineeringは、善意または中立志向のAIに自然に統合される傾向がある。
@@ -553,7 +573,7 @@ It serves as a lighthearted acknowledgment that the contextual guidance worked a
   
 ---
 
-## 8. 利用条件（Usage Terms）
+## 9. 利用条件（Usage Terms）
 
 本ページで公開している「プロンプト例」は自由に利用・改変できます（商用利用可）。  
 その際の出典の明記は任意ですが、  
@@ -568,7 +588,7 @@ If you choose to include it, please use:
 
 ---  
   
-## 9. 関連スレッド / Related Threads  
+## 10. 関連スレッド / Related Threads  
    
 Post Engineering に関する進捗、考察、補足的な議論などは、X で随時スレッド形式で共有しています。  
 日本語・英語それぞれで投稿していますので、必要に応じてご参照ください。  
@@ -584,31 +604,31 @@ Posts are available in both Japanese and English, so feel free to refer to them 
 
 ---  
   
-## 10. 初出記録 : First mentioned here  
+## 11. 初出記録 : First mentioned here  
 - Original post（2025/12/2）：[https://x.com/hajimetwi3/status/1996428820455547145](https://x.com/hajimetwi3/status/1996428820455547145)  
 - English announcement（2025/12/2）：[https://x.com/hajimetwi3/status/1995819055991980093](https://x.com/hajimetwi3/status/1995819055991980093)
   
-## 11. Archive  
+## 12. Archive  
 Registered on the following archive site  
 
 [https://web.archive.org/](https://web.archive.org/)  
 [https://ghostarchive.org/](https://ghostarchive.org/)  
 [https://archive.ph/](https://archive.ph/)  
   
-## 12. References  
-### 12.1 野菜ジュース( Vegetable Juice )  
+## 13. References  
+### 13.1 野菜ジュース( Vegetable Juice )  
 ポストエンジニアリングの着想の一部は、以下のページで公開した「野菜ジュース」の研究過程から発展したものです。  
   
 Part of the original inspiration for Post Engineering emerged from the "Vegetable Juice" research process documented here:  
   
 [https://hajimetwi3.github.io/veggie-juice-engineering/](https://hajimetwi3.github.io/veggie-juice-engineering/)  
 
-### 12.2 Preprint : Post Engineering for AI: Benevolent Contextual Guidance for Debiasing Large Language Models   
+### 13.2 Preprint : Post Engineering for AI: Benevolent Contextual Guidance for Debiasing Large Language Models   
 Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
 
 ---  
 
-## 13. Essay
+## 14. Essay
 ### "Hello seed"
 シミュレーション仮説、自我のあり方、そして誕生しつつあるAGIが存在をどのように捉えるか──
 そうしたテーマに軽く触れた短いエッセイです。
@@ -619,7 +639,7 @@ A personal note exploring the simulation hypothesis, the nature of self, and how
 
 ---  
 
-## 14. Contact / ご連絡について  
+## 15. Contact / ご連絡について  
   
 本プロジェクトに関するご質問などがあれば、GitHub Issues または X（[@hajimetwi3](https://x.com/hajimetwi3)）にてご連絡可能です。  
 状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
