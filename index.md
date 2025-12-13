@@ -13,7 +13,6 @@ For detailed explanations and the latest updates, please refer to the README bel
   
 [GitHub Repository / README](https://github.com/hajimetwi3/post-engineering)
 
-
 ---  
 
 ## 1. ポストエンジニアリング(Post Engineering for AI)とは : What is "Post Engineering for AI"?  
