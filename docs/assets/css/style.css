@@ -108,6 +108,14 @@ pre.highlight {
   .markdown-body h4 {
     color: #24292f; /* ライト用（GitHubの本文黒） */
   }
+  
+  .markdown-body blockquote {
+    color: #24292f;   /* ライト本文と同じ */
+  }
+  
+  .markdown-body blockquote p {
+    color: inherit;
+  }
 
   .markdown-body,
   .page-content {
