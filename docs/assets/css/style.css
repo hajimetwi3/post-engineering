@@ -33,25 +33,42 @@ html, body {
   color: #8b949e;
 }
 
-/* === Code blocks (GitHub-dark-like) === */
-.markdown-body pre,
-.markdown-body code {
+/* === Code blocks (Rouge / GitHub Pages) === */
+
+/* ブロック全体（Rouge） */
+.highlight,
+div.highlight,
+pre.highlight {
   background-color: #161b22;
   color: #e6edf3;
 }
 
-/* インラインコードは少しだけ差をつける */
-.markdown-body code {
+/* pre内のcode（Rouge） */
+.highlight pre,
+.highlight code,
+pre.highlight code {
+  background-color: transparent;
+  color: #e6edf3;
+}
+
+/* 余白・角丸（見栄え） */
+.highlight pre,
+pre.highlight {
+  padding: 16px;
+  border-radius: 6px;
+  overflow: auto;
+  margin: 0.8em 0;
+}
+
+/* インラインコード（本文中の `code`）だけ別扱い */
+.markdown-body p code,
+.markdown-body li code,
+.markdown-body td code {
+  background-color: #161b22;
+  color: #e6edf3;
   padding: 0.2em 0.4em;
   border-radius: 6px;
 }
-
-/* 複数行コード（pre内code）の余白調整 */
-.markdown-body pre code {
-  padding: 0;
-  background-color: transparent;
-}
-
 
 /* === Light mode (respect OS preference) === */
 @media (prefers-color-scheme: light) {
