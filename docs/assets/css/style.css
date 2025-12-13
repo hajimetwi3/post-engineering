@@ -70,6 +70,14 @@ pre.highlight {
   border-radius: 6px;
 }
 
+/* === Fix white code blocks only (keep red .highlight.gd) === */
+.markdown-body .highlight:not(.gd),
+.markdown-body .highlight:not(.gd) pre,
+.markdown-body .highlight:not(.gd) code {
+  background-color: #161b22;
+  color: #e6edf3;
+}
+
 /* === Light mode (respect OS preference) === */
 @media (prefers-color-scheme: light) {
   :root {
