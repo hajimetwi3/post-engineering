@@ -1,7 +1,7 @@
 /* デフォルトはダーク */
 :root {
   --bg: #0d1117;
-  --text: #dbe2ea;
+  --text: #f0f6fc;
   --link: #58a6ff;
 }
 
@@ -10,9 +10,11 @@ html, body {
   color: var(--text);
 }
 
+/*
 h1, h2, h3, h4 {
   color: #f0f6fc;
 }
+*/
 
 a {
   color: var(--link);
