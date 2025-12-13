@@ -1,7 +1,7 @@
 /* デフォルトはダーク */
 :root {
   --bg: #0d1117;
-  --text: #f0f6fc;
+  --text: #e6edf3;
   --link: #58a6ff;
 }
 
@@ -10,25 +10,39 @@ html, body {
   color: var(--text);
 }
 
-/*
-h1, h2, h3, h4 {
+/* Markdown body (GitHub Pages theme override) */
+.markdown-body,
+.page-content {
+  color: var(--text);
+}
+
+/* Headings */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4 {
   color: #f0f6fc;
 }
-*/
 
-a {
+/* Links */
+.markdown-body a {
   color: var(--link);
 }
 
-a:visited {
+.markdown-body a:visited {
   color: #8b949e;
 }
 
-/* OSがライト指定のときだけ切り替え */
+/* === Light mode (respect OS preference) === */
 @media (prefers-color-scheme: light) {
   :root {
     --bg: #ffffff;
     --text: #24292f;
     --link: #0969da;
+  }
+
+  .markdown-body,
+  .page-content {
+    color: var(--text);
   }
 }
