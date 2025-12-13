@@ -84,6 +84,16 @@ pre.highlight {
   border: 1px solid #30363d;
 }
 
+/* === Blockquote (make slightly brighter, GitHub-dark-like) === */
+.markdown-body blockquote {
+  color: #e6edf3;              /* 本文と同じ or ほぼ同じ */
+}
+
+.markdown-body blockquote p {
+  color: inherit;
+}
+
+
 /* === Light mode (respect OS preference) === */
 @media (prefers-color-scheme: light) {
   :root {
