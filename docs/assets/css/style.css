@@ -33,6 +33,26 @@ html, body {
   color: #8b949e;
 }
 
+/* === Code blocks (GitHub-dark-like) === */
+.markdown-body pre,
+.markdown-body code {
+  background-color: #161b22;
+  color: #e6edf3;
+}
+
+/* インラインコードは少しだけ差をつける */
+.markdown-body code {
+  padding: 0.2em 0.4em;
+  border-radius: 6px;
+}
+
+/* 複数行コード（pre内code）の余白調整 */
+.markdown-body pre code {
+  padding: 0;
+  background-color: transparent;
+}
+
+
 /* === Light mode (respect OS preference) === */
 @media (prefers-color-scheme: light) {
   :root {
