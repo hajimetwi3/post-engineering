@@ -1,0 +1,28 @@
+/* デフォルトはダーク */
+:root {
+  --bg: #0d1117;
+  --text: #c9d1d9;
+  --link: #58a6ff;
+}
+
+html, body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+}
+
+a:visited {
+  color: #8b949e;
+}
+
+/* OSがライト指定のときだけ切り替え */
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #ffffff;
+    --text: #24292f;
+    --link: #0969da;
+  }
+}
