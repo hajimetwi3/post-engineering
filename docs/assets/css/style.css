@@ -78,6 +78,12 @@ pre.highlight {
   color: #e6edf3;
 }
 
+/* Code block separation */
+.markdown-body .highlight pre,
+.markdown-body pre.highlight {
+  border: 1px solid #30363d;
+}
+
 /* === Light mode (respect OS preference) === */
 @media (prefers-color-scheme: light) {
   :root {
