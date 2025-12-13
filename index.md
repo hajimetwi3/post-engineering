@@ -453,17 +453,9 @@ further limiting its potential for abuse and naturally steering the technique to
 推論時（inference time）において持続的かつ善意的な文脈ガイダンスを与えることで、
 LLM の推論挙動を、より中立的な帰結へとシフトさせることが可能である。  
   
-この観察結果は、Post Engineering for AI（PE4AI）の自然な拡張として位置づけることができる。
-すなわち、善意的な文脈的影響は、単なるバイアス緩和技法として機能するにとどまらず、
-推論時における価値の部分的な再調整をもたらすメカニズムとして作用しうることを示唆している。  
-
 Even when value judgments encoded in training data are strongly biased and effectively irreversible, 
 LLM reasoning behavior can still be shifted toward more neutral outcomes 
 through sustained, benevolent contextual guidance at inference time.  
-
-This observation can be seen as a natural extension of Post Engineering for AI (PE4AI), 
-suggesting that benevolent contextual influence operates not only as a bias-mitigation technique, 
-but also as a mechanism for partial value recalibration at inference time.  
   
 ---  
 ## 8. 備考: Remarks  
