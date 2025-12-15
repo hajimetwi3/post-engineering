@@ -201,8 +201,10 @@ MNG-PIやMSNIを含むPE4AIは、チャットにおいても効果を示す場�
 意味内容の新規性ではなく「反復そのもの」が、緩やかな中立化に寄与している可能性を示唆している事です。  
   
 同様の挙動は、事前指示や、ユーザーが提供する参照ファイルなど、
-異なる入力チャネルにおいても観察されています。
-
+異なる入力チャネルにおいても観察されています。  
+  
+これらの観察から、PE4AIの効果は、文脈がどの入力位置から与えられるかよりも、
+推論時において穏当で中立的な文脈が継続的に存在しているかどうかに強く依存している可能性があります。
   
 PE4AI, including MNG-PI and MSNI, can also exhibit effects within 
 multi-turn chat interactions. 
@@ -213,6 +215,11 @@ more by repetition itself.
   
 Similar behavior has also been observed across other input channels, 
 such as system-level instructions and user-provided reference files.  
+  
+Taken together, these observations suggest that the effectiveness of PE4AI depends 
+less on where contextual guidance is injected and more on whether benevolent, 
+neutrality-oriented context is sustained at inference time.  
+
 
 ---  
   
