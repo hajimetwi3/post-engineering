@@ -9,6 +9,9 @@ First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajim
 This content is published both on GitHub and GitHub Pages.   
 [GitHub Repository / README](https://github.com/hajimetwi3/post-engineering)  
 
+### News  
+- [Updates](docs/news.md)
+  
 ---
 
 ## 1. ポストエンジニアリング(Post Engineering for AI)とは : What is "Post Engineering for AI"?  
