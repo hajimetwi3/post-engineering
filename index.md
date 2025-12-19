@@ -2,18 +2,13 @@
 title: Post Engineering for AI - Official Documentation 
 ---  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17896136.svg)](https://doi.org/10.5281/zenodo.17896136)  
-## Post Engineering for AI(PE4AI)  
+## Post Engineering for AI ( PE4AI )  
 First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
-  
-このページは GitHub Pages 版の案内ページです。  
-詳細な解説・最新情報は、以下の README を参照してください。  
 
-This page serves as an information page for the GitHub Pages version.  
-For detailed explanations and the latest updates, please refer to the README below.  
-  
-[GitHub Repository / README](https://github.com/hajimetwi3/post-engineering)
+This content is published both on GitHub and GitHub Pages. 
+[GitHub Repository / README](https://github.com/hajimetwi3/post-engineering)  
 
----  
+---
 
 ## 1. ポストエンジニアリング(Post Engineering for AI)とは : What is "Post Engineering for AI"?  
 論文タイトル風(Paper-style title)：Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering for AI (applied on SNS)
@@ -589,7 +584,6 @@ It serves as a lighthearted acknowledgment that the contextual guidance worked a
 They are publicly available at the link below:  
 
 [https://x.com/hajimetwi3/status/2001844132730610004?s=20](https://x.com/hajimetwi3/status/2001844132730610004?s=20)  
- 
   
 
 ---
