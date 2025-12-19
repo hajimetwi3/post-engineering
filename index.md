@@ -580,7 +580,17 @@ some users humorously celebrate with the phrase:
 **"Post Engineered!!"**  
   
 It serves as a lighthearted acknowledgment that the contextual guidance worked as intended.  
+
+---  
   
+### PE4AIのPoCの１つとしてGPTsを公開(GPTs released as one of the PE4AI PoCs)  
+
+以下のリンク先で公開中です。  
+They are publicly available at the link below:  
+
+https://x.com/hajimetwi3/status/2001844132730610004?s=20  
+  
+
 ---
 
 ## 9. 利用条件（Usage Terms）
