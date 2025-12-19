@@ -588,7 +588,8 @@ It serves as a lighthearted acknowledgment that the contextual guidance worked a
 以下のリンク先で公開中です。  
 They are publicly available at the link below:  
 
-https://x.com/hajimetwi3/status/2001844132730610004?s=20  
+[https://x.com/hajimetwi3/status/2001844132730610004?s=20](https://x.com/hajimetwi3/status/2001844132730610004?s=20)  
+ 
   
 
 ---
