@@ -1,5 +1,12 @@
-# Post Engineering for AI ( PE4AI )  
-First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajimetwi3)) - December 2025
+---
+title: Post Engineering for AI - Official Documentation 
+---  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17896136.svg)](https://doi.org/10.5281/zenodo.17896136)  
+## Post Engineering for AI ( PE4AI )  
+First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
+
+This site mirrors the current README.md.    
+[GitHub Repository / README](https://github.com/hajimetwi3/post-engineering)  
 
 ---
 
