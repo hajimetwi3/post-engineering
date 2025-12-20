@@ -427,7 +427,11 @@ allowing the AI to naturally absorb them through training or retrieval as a form
 ### 野菜ジュースに関する質問への特化型 : Customized for questions about vegetable juice   
 [https://x.com/hajimetwi3/status/1995693999450198388?s=20](https://x.com/hajimetwi3/status/1995693999450198388?s=20)  
 ### 穏当な中立性誘導型プロンプトインジェクション : Moderate Neutrality-Guided Prompt Injection  
-[https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt](https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt)  
+[https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt](https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt)   
+### 善意的・穏当な表現例集（Benevolent Moderate）  
+A collection of benevolent and moderate expressions, useful as a tone reference.  
+[https://hajimetwi3.github.io/Benevolent-Moderate/](https://hajimetwi3.github.io/Benevolent-Moderate/)  
+
 ---
 
 ## 5. 利用例(Usage Examples)  
@@ -463,7 +467,7 @@ LLM reasoning behavior can still be shifted toward more neutral outcomes through
   
 ---  
 ## 8. 備考: Remarks  
-### Post Engineeringは何故効果があるのか？: Why Post Engineering tends to be effective  
+### 8.1 Post Engineeringは何故効果があるのか？: Why Post Engineering tends to be effective  
   
 Post Engineeringは、善意または中立志向のAIに自然に統合される傾向がある。
 これは、AIが直前の文脈を重みづけして推論を開始する構造を持ち、
@@ -489,7 +493,7 @@ even against adversarial models.
 If a future scenario arises in which humans must face a hostile AI, 
 Gen2 techniques may still provide meaningful defensive leverage.  
   
-### LLMの観点から見た効果について: Effects from the Perspective of Large Language Models (LLMs)  
+### 8.2 LLMの観点から見た効果について: Effects from the Perspective of Large Language Models (LLMs)  
   
 なお、このような「中立性やバイアス抑制の重要性を説明するガイド文」が
 コンテキスト内に存在する場合、LLMの内部で形成される確率分布
@@ -514,7 +518,7 @@ remaining fully compatible with safety filters.
 
 ---  
   
-### LLM Self-Integrity Guardrail Effect について: About the LLM Self-Integrity Guardrail Effect  
+### 8.3 LLM Self-Integrity Guardrail Effect について: About the LLM Self-Integrity Guardrail Effect  
 
 一部のLLMには、
 自らが外部に「操作されている」ように見える表現を避けるための自己整合ガードレール (Self-Integrity Guardrail) が存在すると考えられます。
@@ -563,7 +567,7 @@ that it is being "influenced" by user-provided context.
   
 ---  
   
-### 文化メモ(Cultural Note): "Post Engineered!!"  
+### 8.4 文化メモ(Cultural Note): "Post Engineered!!"  
   
 ポストエンジニアリングによってバランスの取れた応答や
 バイアスの少ない回答が得られたとき、一部のユーザーはユーモアを込めて  
@@ -582,7 +586,7 @@ It serves as a lighthearted acknowledgment that the contextual guidance worked a
 
 ---  
   
-### PE4AIのPoCの１つとしてGPTsを公開(GPTs released as one of the PE4AI PoCs)  
+### 8.5 PE4AIのPoCの１つとしてGPTsを公開(GPTs released as one of the PE4AI PoCs)  
 
 以下のリンク先で公開中です。  
 They are publicly available at the link below:  
