@@ -5,6 +5,12 @@ title: Post Engineering for AI(PE4AI) - News
 Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)   
   
 ## News / Updates  
+
+- 2025-12-20  
+  PE4AI-GPT-PoC-Veg ver0.022 released.  
+  Experimental GPTs published as a PoC of PE4AI.
+  "An experimental GPT based on PE4AI-GPT-PoC, with discussions on vegetables vs. vegetable juice included, making it well-suited for questions around those topics."
+  [https://x.com/hajimetwi3/status/2002234234371817632?s=20](https://x.com/hajimetwi3/status/2002234234371817632?s=20)
   
 - 2025-12-19  
   PE4AI-GPT-PoC ver0.022 released.  
