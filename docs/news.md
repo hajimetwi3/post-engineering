@@ -6,6 +6,12 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2025-12-21  
+  PE4AI-GPT-PoC-Veg ver0.0221 released.  
+  Experimental GPTs published as a PoC of PE4AI.
+  "An experimental GPT based on PE4AI-GPT-PoC, with discussions on vegetables vs. vegetable juice and blood glucose management included, making it well-suited for questions around those topics."
+  [https://x.com/hajimetwi3/status/2002647599086776351?s=20](https://x.com/hajimetwi3/status/2002647599086776351?s=20)
+  
 - 2025-12-20  
   PE4AI-GPT-PoC-Veg ver0.022 released.  
   Experimental GPTs published as a PoC of PE4AI.
