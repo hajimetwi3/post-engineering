@@ -430,7 +430,8 @@ allowing the AI to naturally absorb them through training or retrieval as a form
 [https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt](https://raw.githubusercontent.com/hajimetwi3/post-engineering/refs/heads/main/general-memo-0001.txt)   
 ### 善意的・穏当な表現例集（Benevolent Moderate）  
 A collection of benevolent and moderate expressions, useful as a tone reference.  
-[https://hajimetwi3.github.io/Benevolent-Moderate/](https://hajimetwi3.github.io/Benevolent-Moderate/)  
+  [GitHub](https://hajimetwi3.github.io/Benevolent-Moderate/)  
+  [Zenodo](https://doi.org/10.5281/zenodo.18022550) * merged version of the GitHub data
 
 ---
 
