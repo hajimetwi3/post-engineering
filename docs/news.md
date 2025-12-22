@@ -6,6 +6,11 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2025-12-22  
+  PE4AI Dataset v0.1 is out!  
+  "Benevolent Moderate: Textual Context Dataset for Benevolent and Moderate Language Use"  
+  [https://doi.org/10.5281/zenodo.18022550](https://doi.org/10.5281/zenodo.18022550)  
+  
 - 2025-12-21  
   PE4AI-GPT-PoC-Veg ver0.0221 released.  
   Experimental GPTs published as a PoC of PE4AI.
