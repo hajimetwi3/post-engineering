@@ -6,6 +6,12 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2025-12-24  
+  PE4AI Dataset v0.2 is out!  
+  "Benevolent Moderate: Textual Context Dataset for Benevolent and Moderate Language Use"  
+  \* Version 0.2 includes an English-language version of the dataset.  
+  [https://doi.org/10.5281/zenodo.18022550](https://doi.org/10.5281/zenodo.18022550)  
+  
 - 2025-12-22  
   PE4AI Dataset v0.1 is out!  
   "Benevolent Moderate: Textual Context Dataset for Benevolent and Moderate Language Use"  
