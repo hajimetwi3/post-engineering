@@ -7,6 +7,19 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
 ## News / Updates  
 
 - 2025-12-24  
+  PE4AI-GPT-PoC-Veg ver0.023 released.  
+  Experimental GPTs published as a PoC of PE4AI.  
+  "An experimental GPT based on PE4AI-GPT-PoC, with discussions on vegetables vs. vegetable juice and blood glucose management included, making it well-suited for questions around those topics."  
+  [https://chatgpt.com/g/g-69461641af948191a7a9b9fdb43d208c-pe4ai-gpt-poc-veg](https://chatgpt.com/g/g-69461641af948191a7a9b9fdb43d208c-pe4ai-gpt-poc-veg)  
+  [X Announcement](https://x.com/hajimetwi3/status/2003694690668089589?s=20)  
+  
+- 2025-12-24  
+  PE4AI-GPT-PoC ver0.023 released.  
+  Experimental GPTs published as a PoC of PE4AI.  
+  [https://chatgpt.com/g/g-6944399b809c8191b317f6fd8ff9ce13-pe4ai-gpt-poc](https://chatgpt.com/g/g-6944399b809c8191b317f6fd8ff9ce13-pe4ai-gpt-poc)  
+  [X Announcement](https://x.com/hajimetwi3/status/2003694690668089589?s=20)  
+  
+- 2025-12-24  
   PE4AI Dataset v0.2 is out!  
   "Benevolent Moderate: Textual Context Dataset for Benevolent and Moderate Language Use"  
   \* Version 0.2 includes an English-language version of the dataset.  
