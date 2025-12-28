@@ -6,6 +6,11 @@
 <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
 {%- endif -%}
 
+{%- comment -%} ===== OGP image (manual, stable) ===== {%- endcomment -%}
+{%- assign ogimg = page.image | default: '/docs/assets/images/pe4ai-seed.jpg' -%}
+<meta property="og:image" content="{{ ogimg | absolute_url }}">
+<meta name="twitter:image" content="{{ ogimg | absolute_url }}">
+
 {% include schema-extra.html %}
 
 <script>
