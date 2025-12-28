@@ -1,5 +1,6 @@
----
+---  
 title: Post Engineering for AI - Official (en)  
+description: "Official English documentation for Post Engineering for AI (PE4AI), with definition, scope, and links to the Zenodo DOI and GitHub."  
 ---  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17896136.svg)](https://doi.org/10.5281/zenodo.17896136)  
 ## Post Engineering for AI ( PE4AI )  
