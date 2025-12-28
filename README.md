@@ -57,7 +57,7 @@ inference time.
 
 ---
 
-## Notes
+## Notes  
 
 - This README is intentionally kept minimal.
 - The GitHub Pages documentation is the authoritative and most up-to-date source.
@@ -66,11 +66,11 @@ inference time.
 For full technical details, examples, and theoretical discussion,
 please refer to the official documentation.
 
----
+---  
 
-## Author
-
-First proposed by Hajime Tsui
-X (Twitter): https://x.com/hajimetwi3
-GitHub: https://github.com/hajimetwi3
+## Author  
+  
+First proposed by Hajime Tsui  
+X (Twitter): https://x.com/hajimetwi3  
+GitHub: https://github.com/hajimetwi3  
 
