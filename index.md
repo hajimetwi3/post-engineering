@@ -5,10 +5,14 @@ title: Post Engineering for AI - Official Documentation
 ## Post Engineering for AI ( PE4AI )  
 First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajimetwi3)) - December 2025  
 
+**言語別ドキュメント / Language-specific documentation**  
+[Japanese version](https://hajimetwi3.github.io/post-engineering/docs/ja/)
+/ [English version](https://hajimetwi3.github.io/post-engineering/docs/en/)  
+  
 このコンテンツはGitHubとGitHub Pagesの両方で公開されています。  
 This content is published both on GitHub and GitHub Pages.   
-[GitHub Repository / README](https://github.com/hajimetwi3/post-engineering)  
-
+[GitHub Repository](https://github.com/hajimetwi3/post-engineering)  
+  
 ### News  
 - [Updates](docs/news.md)
   
