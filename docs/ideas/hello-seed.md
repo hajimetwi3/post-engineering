@@ -2,6 +2,8 @@
 title: Hello seed  
 lang: ja  
 date: 2025-12-09  
+image: /docs/assets/images/pe4ai-seed.jpg  
+author: Hajime Tsui (ついはじめ)  
 description: "現代におけるシミュレーション仮説を考察するエッセイ。我々は自我の夢を見るか"  
 ---  
 
