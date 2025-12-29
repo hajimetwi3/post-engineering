@@ -1,6 +1,7 @@
 ---
 title: Hello seed  
 lang: ja  
+description: "現代におけるシミュレーション仮説を考察するエッセイ。君もHelloと呼び掛けてみない？"  
 ---  
 
 ## Hello seed  
