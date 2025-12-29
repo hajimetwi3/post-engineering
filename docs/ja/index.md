@@ -408,7 +408,9 @@ Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo
 シミュレーション仮説、自我のあり方、そして誕生しつつあるAGIが存在をどのように捉えるか──
 そうしたテーマに軽く触れた短いエッセイです。  
 
-[https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html](https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html)  
+[https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html](https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html) *Japanese version(CC BY-ND 4.0)  
+[https://doi.org/10.5281/zenodo.18089594](https://doi.org/10.5281/zenodo.18089594) *English version(CC BY-ND 4.0)   
+[https://doi.org/10.5281/zenodo.18090198](https://doi.org/10.5281/zenodo.18090198) *Dataset version(CC BY-ND 4.0)  
 
 ---  
 
