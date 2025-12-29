@@ -86,28 +86,56 @@ Extra JSON-LD (additive) for GitHub Pages + jekyll-seo-tag.
 }
 </script>
 
-{%- elsif u == "/hello-seed.html" -%}
+{%- elsif u == "/docs/ideas/hello-seed.html" -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "{{ page.url | absolute_url }}#article",
-  "url": "{{ page.url | absolute_url }}",
-  "headline": "{{ page.title | default: site.title | escape }}",
-  "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description | escape }}",
-  {% if page.date %}
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  {% endif %}
-  "author": {
-    "@type": "Person",
-    "name": "Hajime Tsui (ついはじめ)",
-    "url": "https://x.com/hajimetwi3",
-    "sameAs": ["https://x.com/hajimetwi3"]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Post Engineering for AI Project"
-  }
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "{{ page.url | absolute_url }}#article",
+      "url": "{{ page.url | absolute_url }}",
+      "headline": "{{ page.title | default: site.title | escape }}",
+      "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description | escape }}",
+      {% if page.date %}
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      {% endif %}
+      "image": ["{{ '/docs/assets/images/pe4ai-seed.jpg' | absolute_url }}"],
+      "mainEntity": { "@id": "https://doi.org/10.5281/zenodo.18088196" },
+      "author": {
+        "@type": "Person",
+        "name": "Hajime Tsui (ついはじめ)",
+        "url": "https://x.com/hajimetwi3",
+        "sameAs": ["https://x.com/hajimetwi3"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Post Engineering for AI Project"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://doi.org/10.5281/zenodo.18088196",
+      "identifier": "https://doi.org/10.5281/zenodo.18088196",
+      "name": "{{ page.title | default: 'Hello seed' | escape }}",
+      "url": "https://doi.org/10.5281/zenodo.18088196",
+      "inLanguage": "ja",
+      {% if page.date %}
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      {% endif %}
+      "image": ["{{ '/docs/assets/images/pe4ai-seed.jpg' | absolute_url }}"],
+      "author": {
+        "@type": "Person",
+        "name": "Hajime Tsui (ついはじめ)",
+        "url": "https://x.com/hajimetwi3",
+        "sameAs": ["https://x.com/hajimetwi3"]
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Post Engineering for AI Project"
+      }
+    }
+  ]
 }
 </script>
 {%- endif -%}
