@@ -96,7 +96,7 @@ Extra JSON-LD (additive) for GitHub Pages + jekyll-seo-tag.
       "@id": "{{ page.url | absolute_url }}#article",
       "url": "{{ page.url | absolute_url }}",
       "headline": "{{ page.title | default: site.title | escape }}",
-      "description": "{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description | escape }}",
+      "description": "{{ page.description | default: page.excerpt | default: site.description | escape }}",
       {% if page.date %}
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       {% endif %}
