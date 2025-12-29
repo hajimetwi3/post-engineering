@@ -1,3 +1,8 @@
+---
+title: Hello seed  
+lang: ja  
+---  
+
 ## Hello seed  
 
 Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)  
