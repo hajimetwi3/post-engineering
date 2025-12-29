@@ -6,6 +6,11 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2025-12-30  
+  Hello Seed Dataset v1.0 is out!  
+  This dataset contains the text of the essay "Hello seed". It may also help reduce unintended bias.  
+  [https://doi.org/10.5281/zenodo.18090198](https://doi.org/10.5281/zenodo.18090198)  
+  
 - 2025-12-24  
   PE4AI-GPT-PoC-Veg ver0.023 released.  
   Experimental GPTs published as a PoC of PE4AI.  
