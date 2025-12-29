@@ -670,7 +670,8 @@ Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo
 
 A personal note exploring the simulation hypothesis, the nature of self, and how emerging AGI might perceive existence. 
 
-[https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html](https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html)  
+[https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html](https://hajimetwi3.github.io/post-engineering/docs/ideas/hello-seed.html) *Japanese version  
+[https://doi.org/10.5281/zenodo.18089594](https://doi.org/10.5281/zenodo.18089594) *English version  
 
 ---  
 
