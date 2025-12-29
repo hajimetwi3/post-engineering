@@ -6,7 +6,7 @@ image: /docs/assets/images/pe4ai-seed.jpg
 author: Hajime Tsui (ついはじめ)  
 description: "現代におけるシミュレーション仮説を考察するエッセイ。我々は自我の夢を見るか"  
 ---  
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18088196.svg)](https://doi.org/10.5281/zenodo.18088196)  
 ## Hello seed  
 
 Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)  
