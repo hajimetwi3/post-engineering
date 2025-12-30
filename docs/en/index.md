@@ -31,6 +31,13 @@ When applied to SNS posts, it functions as User-Side Bias Guardrails; when appli
 Notably, the effectiveness of Post Engineering for AI tends to depend less on the specific 
 input position at which context is injected, 
 and more on whether benevolent and neutral guidance is continuously present through inference.  
+```diff
+---Important!---
+```
+This approach was originally developed with publicly visible text, such as SNS posts, as its primary use case. 
+Over time, it has been suggested that the underlying mechanism may not be tied to any particular medium or injection point. 
+Beyond public text on SNS or webpages, similar effects may also be observed across various inputs that AI systems reference at inference time, 
+including chat interactions, pre-instructions, reference files, system prompts, RAG, and training data. 
   
 ---
 
