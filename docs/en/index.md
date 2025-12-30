@@ -334,6 +334,8 @@ even against adversarial models.
   
 If a future scenario arises in which humans must face a hostile AI, 
 Gen2 techniques may still provide meaningful defensive leverage.  
+
+---  
   
 ### 8.2 Effects from the Perspective of Large Language Models (LLMs)  
   
@@ -395,6 +397,25 @@ They are publicly available at the link below:
 
 [https://x.com/hajimetwi3/status/2001844132730610004?s=20](https://x.com/hajimetwi3/status/2001844132730610004?s=20)  
   
+---  
+
+### 8.6 Commonalities Between Human Behavior and LLM Responses  
+
+Human behavior and judgment are not determined solely by explicit commands or rules. 
+It is widely recognized that evaluative criteria can shift in the short term depending on recently experienced events and contextual cues.  
+
+For example, shortly after watching a moving film centered on an honest protagonist, people may become more inclined to choose benevolent actions even in ordinary, everyday situations. 
+They might find themselves stepping into a minor dispute they would normally ignore, instinctively offering a word or gesture of mediation, perhaps murmuring to themselves, "That was a good thing to do.". 
+This is not the result of being compelled to act, but rather of a temporary change in the context referenced at the moment of judgment.  
+
+A similar mechanism can be observed in large language models. 
+The context referenced at inference time influences both the evaluative criteria applied to candidate outputs and the probabilities with which tokens are selected.
+Post Engineering leverages this property by placing benevolent and neutrality-oriented information within the inference context, thereby making such responses more likely to emerge as the most contextually coherent choices. 
+
+From this perspective, both humans and LLMs can be understood as sharing a structural commonality: 
+in both cases, short-term contextual factors play a significant role in shaping judgments and responses.  
+
+Based on this discussion, Post Engineering for AI (PE4AI) can be characterized as a context engineering approach that designs the inference-time context of LLMs toward benevolence and neutrality, guiding outputs to be more neutral and accurate without directly constraining the reasoning process itself. 
 
 ---
 
