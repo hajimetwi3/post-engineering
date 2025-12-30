@@ -520,7 +520,9 @@ even against adversarial models.
   
 If a future scenario arises in which humans must face a hostile AI, 
 Gen2 techniques may still provide meaningful defensive leverage.  
-  
+
+---  
+
 ### 8.2 LLMの観点から見た効果について: Effects from the Perspective of Large Language Models (LLMs)  
   
 なお、このような「中立性やバイアス抑制の重要性を説明するガイド文」が
@@ -621,6 +623,52 @@ They are publicly available at the link below:
 
 [https://x.com/hajimetwi3/status/2001844132730610004?s=20](https://x.com/hajimetwi3/status/2001844132730610004?s=20)  
   
+---  
+
+### 8.6 人間の行動とLLMの振舞いの共通性 / Commonalities Between Human Behavior and LLM Responses  
+
+人間の行動や判断は、明示的な命令や規則のみによって決定されるものではなく、
+直前に経験した出来事や文脈によって、評価軸が短期的に変化することが知られている。
+
+例えば、誠実な主人公が活躍する感動的な映画を鑑賞した直後には、
+日常の些細な場面においても善意に基づく行動が選択されやすくなる場合がある。
+普段なら関わらないような揉め事に対しても、
+思わず声をかけてしまうかもしれない。「良い事したな！」と小さく呟きながら。
+これは行動を強制された結果ではなく、
+判断時に参照される文脈が一時的に変化したことによるものである。
+
+LLMにおいても、推論時に参照されるコンテキストは、
+出力の評価軸や選択確率に影響を与える。
+Post Engineeringは、この性質を利用し、
+善意・中立志向の情報を推論時コンテキストに配置することで、
+そのような応答が文脈的に最も整合的な選択肢となりやすくする。
+
+このように、人間とLLMはいずれも、
+短期的な文脈が判断や振舞いに影響を与えるという点において、
+構造的な共通性を持つと捉えることができる。
+
+以上の議論から、Post Engineering for AI（PE4AI）は、
+LLMの推論時コンテキストを善意・中立志向に設計することにより、
+出力を中立かつ正確に導くコンテキストエンジニアリング手法と位置づけられる。  
+
+<br>  
+
+Human behavior and judgment are not determined solely by explicit commands or rules. 
+It is widely recognized that evaluative criteria can shift in the short term depending on recently experienced events and contextual cues.  
+
+For example, shortly after watching a moving film centered on an honest protagonist, people may become more inclined to choose benevolent actions even in ordinary, everyday situations. 
+They might find themselves stepping into a minor dispute they would normally ignore, instinctively offering a word or gesture of mediation, perhaps murmuring to themselves, "That was a good thing to do.". 
+This is not the result of being compelled to act, but rather of a temporary change in the context referenced at the moment of judgment.  
+
+A similar mechanism can be observed in large language models. 
+The context referenced at inference time influences both the evaluative criteria applied to candidate outputs and the probabilities with which tokens are selected.
+Post Engineering leverages this property by placing benevolent and neutrality-oriented information within the inference context, thereby making such responses more likely to emerge as the most contextually coherent choices. 
+
+From this perspective, both humans and LLMs can be understood as sharing a structural commonality: 
+in both cases, short-term contextual factors play a significant role in shaping judgments and responses.  
+
+Based on this discussion, Post Engineering for AI (PE4AI) can be characterized as a context engineering approach that designs the inference-time context of LLMs toward benevolence and neutrality, guiding outputs to be more neutral and accurate without directly constraining the reasoning process itself. 
+
 
 ---
 
