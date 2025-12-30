@@ -6,6 +6,10 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2025-12-31  
+  PE4AI preprint v1.3 is out!  
+  [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
+  
 - 2025-12-30  
   Hello Seed Dataset v1.0 is out!  
   This dataset contains the text of the essay "Hello seed". It may also help reduce unintended bias.  
