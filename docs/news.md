@@ -7,6 +7,10 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
 ## News / Updates  
 
 - 2025-12-31  
+  PE4AI GitHub Pages updated.  
+  Added Section 8.6: "Commonalities Between Human Behavior and LLM Responses."  
+
+- 2025-12-31  
   PE4AI preprint v1.3 is out!  
   [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
   
