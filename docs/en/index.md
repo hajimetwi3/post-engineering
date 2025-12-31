@@ -19,7 +19,7 @@ This content is published both on GitHub and GitHub Pages.
 ---
 
 ## 1. What is "Post Engineering for AI"?  
-Paper-style title: Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering for AI (applied on SNS)
+~~Paper-style title: Prompt Injection for Good: User-Side Bias Guardrails via Post Engineering for AI (applied on SNS)~~
   
 Post Engineering is a method where you embed bias-control guidelines at the end of a post or elsewhere in it, so AI tools like Grok analyze the thread more neutrally and accurately.
 This technique is a form of defensive prompt injection designed to reduce bias, and is not intended to improperly manipulate or mislead model behavior.
