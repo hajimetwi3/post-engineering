@@ -8,7 +8,7 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
 
 - 2025-12-31  
   PE4AI GitHub Pages updated.  
-  Added Section 8.6: "Commonalities Between Human Behavior and LLM Responses."  
+  Added Section 8.6: "Commonalities Between Human Behavior and LLM Responses".  
   [here](https://hajimetwi3.github.io/post-engineering/#86-%E4%BA%BA%E9%96%93%E3%81%AE%E8%A1%8C%E5%8B%95%E3%81%A8llm%E3%81%AE%E6%8C%AF%E8%88%9E%E3%81%84%E3%81%AE%E5%85%B1%E9%80%9A%E6%80%A7--commonalities-between-human-behavior-and-llm-responses)  
 
 - 2025-12-31  
