@@ -9,6 +9,7 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
 - 2025-12-31  
   PE4AI GitHub Pages updated.  
   Added Section 8.6: "Commonalities Between Human Behavior and LLM Responses."  
+  [here](https://hajimetwi3.github.io/post-engineering/#86-%E4%BA%BA%E9%96%93%E3%81%AE%E8%A1%8C%E5%8B%95%E3%81%A8llm%E3%81%AE%E6%8C%AF%E8%88%9E%E3%81%84%E3%81%AE%E5%85%B1%E9%80%9A%E6%80%A7--commonalities-between-human-behavior-and-llm-responses)  
 
 - 2025-12-31  
   PE4AI preprint v1.3 is out!  
@@ -18,6 +19,12 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   Hello Seed Dataset v1.0 is out!  
   This dataset contains the text of the essay "Hello seed". It may also help reduce unintended bias.  
   [https://doi.org/10.5281/zenodo.18090198](https://doi.org/10.5281/zenodo.18090198)  
+
+- 2025-12-29  
+  PE4AI GitHub Pages updated.  
+  Added dedicated Japanese and English pages.  
+  [Japanese](https://hajimetwi3.github.io/post-engineering/docs/ja/)  
+  [English](https://hajimetwi3.github.io/post-engineering/docs/en/)
   
 - 2025-12-24  
   PE4AI-GPT-PoC-Veg ver0.023 released.  
