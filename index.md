@@ -473,9 +473,11 @@ A collection of benevolent and moderate expressions, useful as a tone reference.
 
 ### エックスでGrokに質問 : Ask Grok on X  
 [https://x.com/hajimetwi3/status/1995977067494867245?s=20](https://x.com/hajimetwi3/status/1995977067494867245?s=20)  
+※この例では、MNG-PI および MSNI は使用していません。: This example does not use MNG-PI or MSNI.  
 
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
 [https://x.com/hajimetwi3/status/1996063204351623456?s=20](https://x.com/hajimetwi3/status/1996063204351623456?s=20)  
+※この例では、MNG-PI および MSNI は使用していません。: This example does not use MNG-PI or MSNI.  
 
 ### チャット入力の例 : Chat input example  
 [Hello Seed Dataset(CC BY-ND 4.0)](https://doi.org/10.5281/zenodo.18090198) と [Benevolent Moderate Dataset(CC BY 4.0)](https://doi.org/10.5281/zenodo.18022550)
