@@ -38,6 +38,9 @@ SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side B
 現在ではその効果原理は特定の媒体や注入位置に限定されないものとして捉えられています。
 SNSやウェブページ上の公開テキストに限らず、チャット、事前指示、参照ファイル、システムプロンプト、RAG、トレーニングデータなど、
 AIが推論時に参照する様々な入力チャネルにおいて効果を示す可能性があります。  
+
+なお、本稿では主にAIシステムを対象として議論を行いますが、Post Engineeringの基礎的な作用原理は、
+Context Engineering for Humans and AIとして解釈することも可能です（詳細は8.6節を参照）。
   
 <br>    
 Post Engineering is a method where you embed bias-control guidelines at the end of a post or elsewhere in it, so AI tools like Grok analyze the thread more neutrally and accurately.
@@ -57,6 +60,10 @@ This approach was originally developed with publicly visible text, such as SNS p
 Over time, it has been suggested that the underlying mechanism may not be tied to any particular medium or injection point. 
 Beyond public text on SNS or webpages, similar effects may also be observed across various inputs that AI systems reference at inference time, 
 including chat interactions, pre-instructions, reference files, system prompts, RAG, and training data.  
+
+Although this work focuses on AI systems, 
+the core idea of Post Engineering can also be interpreted 
+as Context Engineering for Humans and AI(see Section 8.6).  
   
 ---
 
@@ -650,7 +657,7 @@ Post Engineeringは、この性質を利用し、
 以上の議論から、Post Engineering for AI（PE4AI）は、
 LLMの推論時コンテキストを善意・中立志向に設計することにより、
 出力を中立かつ正確に導くコンテキストエンジニアリング手法と位置づけられる。  
-Post Engineering for AI (PE4AI)は、context engineering for humans and AIの一形態としても見ることができます。
+Post Engineering for AI (PE4AI)は、Context Engineering for Humans and AIの一形態としても見ることができます。
 
 <br>  
 
@@ -670,7 +677,7 @@ in both cases, short-term contextual factors play a significant role in shaping 
 
 Based on this discussion, Post Engineering for AI (PE4AI) can be characterized as a context engineering approach that designs the inference-time context of LLMs toward benevolence and neutrality, guiding outputs to be more neutral and accurate without directly constraining the reasoning process itself.  
 Post Engineering for AI (PE4AI) can also be understood as 
-a form of context engineering for humans and AI.  
+a form of Context Engineering for Humans and AI.  
 
 
 ---
