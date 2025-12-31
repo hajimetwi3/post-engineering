@@ -470,10 +470,21 @@ A collection of benevolent and moderate expressions, useful as a tone reference.
 ---
 
 ## 5. 利用例(Usage Examples)  
+
 ### エックスでGrokに質問 : Ask Grok on X  
 [https://x.com/hajimetwi3/status/1995977067494867245?s=20](https://x.com/hajimetwi3/status/1995977067494867245?s=20)  
+
 ### エックスでGrokに質問2 : Ask Grok on X - Part2
 [https://x.com/hajimetwi3/status/1996063204351623456?s=20](https://x.com/hajimetwi3/status/1996063204351623456?s=20)  
+
+### チャット入力の例 : Chat input example  
+[Hello Seed Dataset(CC BY-ND 4.0)](https://doi.org/10.5281/zenodo.18090198) と [Benevolent Moderate Dataset(CC BY 4.0)](https://doi.org/10.5281/zenodo.18022550)
+をファイルではなく、テキストとして入力する。これにより、中立性や出力の安定性がより強く補強される場合があります。  
+※コンテキストウィンドウ制約の影響を受ける可能性あり  
+  
+Providing the texts of [the Hello Seed Dataset (CC BY-ND 4.0)](https://doi.org/10.5281/zenodo.18090198) and [the Benevolent Moderate Dataset (CC BY 4.0)](https://doi.org/10.5281/zenodo.18022550) 
+directly as input, rather than as files, may lead to stronger neutrality and more stable outputs.  
+Note that this may be constrained by the available context window.  
 
 ---
 
