@@ -303,8 +303,12 @@ A collection of benevolent and moderate expressions, useful as a tone reference.
 ## 5. Usage Examples  
 ### Ask Grok on X  
 [https://x.com/hajimetwi3/status/1995977067494867245?s=20](https://x.com/hajimetwi3/status/1995977067494867245?s=20)  
-### Ask Grok on X - Part2
+### Ask Grok on X - Part2  
 [https://x.com/hajimetwi3/status/1996063204351623456?s=20](https://x.com/hajimetwi3/status/1996063204351623456?s=20)  
+### Chat input example  
+Providing the texts of [the Hello Seed Dataset (CC BY-ND 4.0)](https://doi.org/10.5281/zenodo.18090198) and [the Benevolent Moderate Dataset (CC BY 4.0)](https://doi.org/10.5281/zenodo.18022550) 
+directly as input, rather than as files, may lead to stronger neutrality and more stable outputs.  
+Note that this may be constrained by the available context window.  
 
 ---
 
