@@ -39,6 +39,9 @@ SNSの場合はUser-Side Bias Guardrails、サーバの場合は、Server-Side B
 SNSやウェブページ上の公開テキストに限らず、チャット、事前指示、参照ファイル、システムプロンプト、RAG、トレーニングデータなど、
 AIが推論時に参照する様々な入力チャネルにおいて効果を示す可能性があります。  
 
+なお、本稿では主にAIシステムを対象として議論を行いますが、Post Engineeringの基礎的な作用原理は、
+Context Engineering for Humans and AIとして解釈することも可能です（詳細は8.6節を参照）。  
+
 ---
 
 ### 1.1. 関連技術 : Related Techniques  
@@ -393,7 +396,7 @@ Post Engineeringは、この性質を利用し、
 以上の議論から、Post Engineering for AI（PE4AI）は、
 LLMの推論時コンテキストを善意・中立志向に設計することにより、
 出力を中立かつ正確に導くコンテキストエンジニアリング手法と位置づけられる。
-
+Post Engineering for AI (PE4AI)は、Context Engineering for Humans and AIの一形態としても見ることができます。
 
 ---  
 
