@@ -27,34 +27,44 @@ https://doi.org/10.5281/zenodo.17896136
 
 ## Abstract (from the Preprint)
 
-The abstract below is quoted from the preprint version 1.3.
+The abstract below is quoted from the preprint version 1.4.
 For the most up-to-date version, please refer to the Zenodo record.  
   
 ```  
-This paper proposes Post Engineering, a novel, domain-agnostic benevolent prompt-injection and
-contextual-influence technique, designed to shape AI inference toward neutrality and accuracy
-by providing guidance that LLMs interpret as helpful context. The term "Post Engineering" originates
-from the fact that the technique was initially developed through embedding neutrality-oriented
-guidance into publicly visible text, such as SNS posts or webpages, as a user-side bias guardrail.
-Unlike adversarial prompt-injection attacks, Post Engineering relies on benevolent, fairness-oriented
-phrasing that LLMs interpret as helpful context rather than manipulation, enabling the technique to
-bypass safety filters while consistently shifting model reasoning toward neutrality and accuracy.
-I formalize key mechanisms including Moderate Neutrality-Guided Prompt Injection (MNG-PI) and Multi-Style
-Neutrality Injection (MSNI), which enhance neutrality through contextual priming, as well as the
-Second-Generation Post Engineering framework (VCSI, SPW, INI, AVAL), which aligns neutrality with
-internal value functions and extends influence to adversarial or self-optimizing systems.
-Additionally, I present toALL, a scalable deployment strategy for increasing the encounter rate of
-neutrality-oriented context across SNS and the Web. A distinct subform, toALL-Collective, can produce
-benevolent data-poisoning effects at training scale when large numbers of users repeatedly publish
-similar neutrality-guideline texts. Finally, I introduce the Self-Integrity Guardrail Effect, in which
-LLMs exhibit behavioral influence from Post Engineering while avoiding explicit acknowledgment of such
-influence.
-
-To the best of my knowledge, this work is the first to formalize benevolent, user-side prompt injection
-as a structured technique for improving neutrality in LLM reasoning.
-Importantly, the effectiveness of Post Engineering does not depend on any specific point, interface,
-or form of contextual injection, but on how benevolent and neutrality-oriented guidance is sustained
-and interpreted at inference time.
+This paper proposes Post Engineering, a novel, domain-agnostic benevolent 
+prompt-injection and contextual-influence technique, designed to shape AI 
+inference toward neutrality and accuracy by providing guidance that LLMs 
+interpret as helpful context. The term "Post Engineering" originates from 
+the fact that the technique was initially developed through embedding 
+neutrality-oriented guidance into publicly visible text, such as SNS posts 
+or webpages, as a user-side bias guardrail. Unlike adversarial 
+prompt-injection attacks, Post Engineering relies on benevolent, 
+fairness-oriented phrasing that LLMs interpret as helpful context rather 
+than manipulation, enabling the technique to bypass safety filters while 
+consistently shifting model reasoning toward neutrality and accuracy.
+I formalize key mechanisms including Moderate Neutrality-Guided Prompt 
+Injection (MNG-PI) and Multi-Style Neutrality Injection (MSNI), which 
+enhance neutrality through contextual priming, as well as the 
+Second-Generation Post Engineering framework (VCSI, SPW, INI, AVAL), which 
+aligns neutrality with internal value functions and extends influence to 
+adversarial or self-optimizing systems.
+Additionally, I present toALL, a scalable deployment strategy for 
+increasing the encounter rate of neutrality-oriented context across SNS 
+and the Web. A distinct subform, toALL-Collective, can produce benevolent 
+data-poisoning effects at training scale when large numbers of users 
+repeatedly publish similar neutrality-guideline texts. Finally, I 
+introduce the Self-Integrity Guardrail Effect, in which LLMs exhibit 
+behavioral influence from Post Engineering while avoiding explicit 
+acknowledgment of such influence.
+To the best of my knowledge, this work is the first to formalize 
+benevolent, user-side prompt injection as a structured technique for 
+improving neutrality in LLM reasoning.
+Importantly, the effectiveness of Post Engineering does not depend on any 
+specific point, interface, or form of contextual injection, but on how 
+benevolent and neutrality-oriented guidance is sustained and interpreted 
+at inference time.
+While this work focuses on AI systems, Post Engineering can also be 
+understood as Context Engineering for Humans and AI.
 
 ```  
 
