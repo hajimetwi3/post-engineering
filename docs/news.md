@@ -6,6 +6,10 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2026-01-08   
+  PE4AI (Post Engineering for AI) is now live on Reddit!  
+  [https://www.reddit.com/r/OpenLLMSymposium/comments/1q74gbo/post_engineering_for_ai_benevolent_contextual/](https://www.reddit.com/r/OpenLLMSymposium/comments/1q74gbo/post_engineering_for_ai_benevolent_contextual/)  
+  
 - 2025-12-31   
   PE4AI preprint v1.4 is out!  
   Added a new Discussion Section!  
