@@ -13,8 +13,9 @@ Please refer to the latest merged version for the most up-to-date information.
 This content is published both on GitHub and GitHub Pages.   
 [GitHub Repository](https://github.com/hajimetwi3/post-engineering)  
 
-### News  
-- [Updates](https://hajimetwi3.github.io/post-engineering/docs/news.html)
+### News and Discussion   
+- [Updates](docs/news.md)  
+- [reddit](https://www.reddit.com/r/OpenLLMSymposium/comments/1q74gbo/post_engineering_for_ai_benevolent_contextual/)  
   
 ---
 
