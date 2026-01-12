@@ -13,8 +13,9 @@ First invented by ついはじめ(Hajime Tsui, [@hajimetwi3](https://x.com/hajim
 このコンテンツはGitHubとGitHub Pagesの両方で公開されています。  
 [GitHub Repository](https://github.com/hajimetwi3/post-engineering)  
 
-### News  
-- [Updates](https://hajimetwi3.github.io/post-engineering/docs/news.html)  
+### News and Discussion   
+- [Updates](docs/news.md)  
+- [reddit](https://www.reddit.com/r/OpenLLMSymposium/comments/1q74gbo/post_engineering_for_ai_benevolent_contextual/)  
   
 ---
 
