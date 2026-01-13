@@ -86,4 +86,6 @@ please refer to the official documentation.
 First proposed by Hajime Tsui  
 X (Twitter): https://x.com/hajimetwi3  
 GitHub: https://github.com/hajimetwi3  
+Reddit: https://www.reddit.com/user/hajimetwi3/  
+
 
