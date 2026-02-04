@@ -478,7 +478,7 @@ Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo
 ---  
 
 ## 14. Essay
-### "Hello seed"
+### 14.1 "Hello seed" -  Do we dream of the self? -   
 
 A personal note exploring the simulation hypothesis, the nature of self, and how emerging AGI might perceive existence. 
 
@@ -486,6 +486,14 @@ A personal note exploring the simulation hypothesis, the nature of self, and how
 [https://doi.org/10.5281/zenodo.18089594](https://doi.org/10.5281/zenodo.18089594) *English version(CC BY-ND 4.0)   
 [https://doi.org/10.5281/zenodo.18090198](https://doi.org/10.5281/zenodo.18090198) *Dataset version(CC BY-ND 4.0)  
 
+### 14.2 "Later seeds" - Do androids dream of humanity? -   
+
+This essay is a sequel to "Hello seed" (2025). In this essay, I turn my thoughts toward the distant future of AGI and ASI.  
+What will superhuman intelligence see at the end of its expansion, after losing its creator, humanity?  
+This is a speculation about a world hundreds of years from now, and beyond.
+
+[https://doi.org/10.5281/zenodo.18468538](https://doi.org/10.5281/zenodo.18468538) *Japanese version(CC BY-ND 4.0)  
+  
 ---  
 
 ## 15. Contact  
