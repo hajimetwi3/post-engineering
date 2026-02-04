@@ -6,6 +6,11 @@ Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)
   
 ## News / Updates  
 
+- 2026-02-04  
+  Later seeds essay v1.0 is out!  
+  [https://hajimetwi3.github.io/post-engineering/#142-later-seeds---do-androids-dream-of-humanity--](https://hajimetwi3.github.io/post-engineering/#142-later-seeds---do-androids-dream-of-humanity--)  
+  [https://doi.org/10.5281/zenodo.18468538](https://doi.org/10.5281/zenodo.18468538) *Japanese version(CC BY-ND 4.0)  
+  
 - 2026-01-08   
   PE4AI (Post Engineering for AI) is now live on Reddit!  
   [https://www.reddit.com/r/OpenLLMSymposium/comments/1q74gbo/post_engineering_for_ai_benevolent_contextual/](https://www.reddit.com/r/OpenLLMSymposium/comments/1q74gbo/post_engineering_for_ai_benevolent_contextual/)  
