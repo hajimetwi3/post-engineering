@@ -469,7 +469,19 @@ Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo
 創造主(人類)を失った超人類(AGI/ASI)が膨張の果てに何をみるのか。今から数百年後以降の世界を想定しています。  
   
 [https://doi.org/10.5281/zenodo.18468538](https://doi.org/10.5281/zenodo.18468538) *Japanese version(CC BY-ND 4.0)  
-  
+
+---  
+
+## 15. Author  
+
+- ORCID: [https://orcid.org/0009-0001-3050-1725](https://orcid.org/0009-0001-3050-1725)  
+- GitHubPage: [https://hajimetwi3.github.io/hajimetwi3/](https://hajimetwi3.github.io/hajimetwi3/)  
+- GitHub: [https://github.com/hajimetwi3](https://github.com/hajimetwi3)  
+- X (Twitter): [https://x.com/hajimetwi3](https://x.com/hajimetwi3)  
+- Reddit: [https://www.reddit.com/user/hajimetwi3/](https://www.reddit.com/user/hajimetwi3/)  
+- BlueSky: [https://bsky.app/profile/hajimetwi3.bsky.social](https://bsky.app/profile/hajimetwi3.bsky.social)  
+- Zenodo: [Records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tsui%2C%20Hajime%22&l=list&p=1&s=10&sort=bestmatch)  
+
 ---  
 
 ## 15. Contact / ご連絡について  
