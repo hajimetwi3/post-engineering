@@ -484,7 +484,7 @@ Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo
 
 ---  
 
-## 15. Contact / ご連絡について  
+## 16. Contact / ご連絡について  
   
 本プロジェクトに関するご質問などがあれば、GitHub Issues または X（[@hajimetwi3](https://x.com/hajimetwi3)）にてご連絡可能です。  
 状況により返信ができない場合もありますので、あらかじめご配慮いただけますと幸いです。  
