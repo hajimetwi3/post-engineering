@@ -480,7 +480,7 @@ Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo
 - X (Twitter): [https://x.com/hajimetwi3](https://x.com/hajimetwi3)  
 - Reddit: [https://www.reddit.com/user/hajimetwi3/](https://www.reddit.com/user/hajimetwi3/)  
 - BlueSky: [https://bsky.app/profile/hajimetwi3.bsky.social](https://bsky.app/profile/hajimetwi3.bsky.social)  
-- Zenodo: [Records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tsui%2C%20Hajime%22&l=list&p=1&s=10&sort=bestmatch)  
+- Zenodo: [Records](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Tsui%2C%20Hajime%22&l=list&p=1&s=10&sort=mostviewed)  
 
 ---  
 
