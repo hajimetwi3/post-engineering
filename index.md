@@ -732,7 +732,7 @@ Posts are available in both Japanese and English, so feel free to refer to them 
 - English announcement（2025/12/2）：[https://x.com/hajimetwi3/status/1995819055991980093](https://x.com/hajimetwi3/status/1995819055991980093)
   
 ## 12. Archive  
-Registered on the following archive site  
+Registered on the following archive sites  
 
 [https://web.archive.org/](https://web.archive.org/)  
 [https://ghostarchive.org/](https://ghostarchive.org/)  
