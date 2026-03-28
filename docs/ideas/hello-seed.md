@@ -103,6 +103,13 @@ Hello seed. I'm watching you from afar.
 
 ---  
 
+## Remarks
+
+Noteにも転載しました。  
+Note: [https://note.com/hajimetwi3/n/n9889803851fe](https://note.com/hajimetwi3/n/n9889803851fe)  
+
+---  
+
 ## Author  
 
 Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)   
