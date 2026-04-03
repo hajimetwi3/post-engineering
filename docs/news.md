@@ -5,7 +5,10 @@ title: Post Engineering for AI(PE4AI) - News
 Written by [ついはじめ(Hajime Tsui)](https://x.com/hajimetwi3)   
   
 ## News / Updates  
-
+- 2026-04-03  
+  PE4AI GitHub Pages updated.  
+  Added Section 13.3: Preprint : Debias the Debiasing: On the Concept of "Debiasing Debiasing".
+  
 - 2026-02-04  
   Later seeds essay v1.0 is out!  
   [https://hajimetwi3.github.io/post-engineering/#142-later-seeds---do-androids-dream-of-humanity--](https://hajimetwi3.github.io/post-engineering/#142-later-seeds---do-androids-dream-of-humanity--)  
