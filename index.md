@@ -748,7 +748,10 @@ Part of the original inspiration for Post Engineering emerged from the "Vegetabl
 
 ### 13.2 Preprint : Post Engineering for AI: Benevolent Contextual Guidance for Debiasing Large Language Models   
 Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo.17896136](https://doi.org/10.5281/zenodo.17896136)  
-
+  
+### 13.3 Preprint : Debias the Debiasing: On the Concept of "Debiasing Debiasing"   
+Preprint (Zenodo, Concept DOI - latest version): [https://doi.org/10.5281/zenodo.19311081](https://doi.org/10.5281/zenodo.19311081)  
+  
 ---  
 
 ## 14. Essay
